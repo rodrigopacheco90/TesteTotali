@@ -1,0 +1,1940 @@
+    5ANDREA MOREIRA LESCOWICZ                 9  1 15,0022
+   43IVANIA PAULINO DE MULLER                24  1 16,2462
+   46MAICKEL RODRIGO MONTEIRO                 7  1 16,1924
+   60PAULO RODRIGO GAZZOLA                   18  1 15,0896
+   64MARCIA RAMOS                             6  1 18,1303
+   69VANIA BELLAN DA SCHULTZ                  5  1 18,9185
+   80ROSA MONICA DE OLIVEIRA PEREIRA          8  1 17,3133
+  100ADEMIR ROBERTO LOCH                     21  1 17,3628
+  152ROMILDA VENTURI                         17  1 15,0108
+  179ROSENILDA RICARDO MONTEIRO              12  1 15,1728
+  192ELIANA APARECIDA DE B. TODT              6  1 10,0000
+  201RODRIGO FEILER                          10  1 16,1477
+  202ANA LUCIA EUCLIDES SANTOS               16  1 19,1129
+  214ROSINEI PATRICIA RODRIGUES              27  1 16,0119
+  234LUZIA SUDAN                             28  1 19,8492
+  257LUCIMARI MESQUITA                       26  1 15,7059
+  259ELIANE GENEVRA DALLMANN                 10  1 18,0837
+  260JOAO MARCELO DA S. SOUZA                 2  1 18,7534
+  269ALVERITA ERTHAL                          9  1 15,4290
+  279JOSIANE TISSI PISKE                     12  1 18,7783
+  293DINA EULALIA VAVASSORI ALVES            11  1 15,9875
+  328CRISTIANE TAGES DA SCOZ                 11  1 16,7836
+  339CLAUDETE SILVA                          12  1 17,2230
+  365JULIANA SCHERSVINSKI                    28  1 15,9660
+  383ISLA COSTA OLIVEIRA                     19  1 18,1875
+  424SONIA MARIA MENEZES MULLER               9  1 18,7541
+  436NELI NOLLI                              26  1 17,6823
+  445ADRIANA MARLO RIBEIRO LUIZ BEHLING      22  1 18,5679
+  451JOSEANI BARON                           23  1 18,4121
+  455NEIDI FERRARI                            3  1 17,6138
+  462MICHELLE DA SILVA EGER                   4  1 16,0141
+  463ROMEU DA SILVA MULLER                   17  1 18,5587
+  474IVANIR CRUZ                              1  1 15,7095
+  478ELI MARIA JEUZUR                        18  1 16,2184
+  489CLEONICE DOS SANTOS LOTERIO SILVA       11  1 18,9491
+  536ALIRIO OLIVEIRA                          2  1 16,1873
+  547RUBIA CAROLINE LORENZETTI MORSCH         1  1 18,8855
+  564LEOMAR DE SOUZA MICHELLUZZI             27  1 16,2687
+  565JOCELIA FRANA ALVES                      5  1 16,8725
+  572ELISABET CRISTINA ARNOLD DE FERRARI      0  1 15,2808
+  588ROSALINA HACK                            4  1 18,6903
+  591ROSELI CECILIA BEYER                     3  1 19,5049
+  599ADRIANA DA SANTOS                       25  1 17,0208
+  607VALDECIR VEGINI                         25  1 17,2994
+  627LUCELIA MORAES                          22  1 18,7928
+  629ROBERTO VICENZI                         19  1 17,9257
+  646FLORENTINA IARGAS ROSNIAK               11  1 16,0766
+  651DAIANA A. VETTERLEIN                    15  1 18,8404
+  669FABIANE LEONI                            2  1 18,2805
+  689JANAINA MANCHEN                          5  1 18,1291
+  699MARIA VANDERLEIA GOERCK                  5  1 17,4575
+  708MARLENE WEISE MAIDA                      4  1 19,9339
+  716JUSSARA TERESINHA SILVA                 20  1 15,2310
+  752ELOIDE MARLI PEZZATTO                   26  1 19,0682
+  764GIOVANI VOLZ                            22  1 19,0670
+  783CRISTIANE KISNER HEUPA                  11  1 18,5348
+  796SERGIO KOHLER                           17  1 19,7036
+  808MARIA SALETE DA S. A. LENZI             11  1 15,8115
+  821MAURO ZANDAVALLI                        24  1 15,3497
+  822IRMA WITKOSKI                           25  1 15,9146
+  827ROSITA HOLTZ                            20  1 15,5500
+  829SALETE ROSANE MALLMANN ALTINI           15  1 15,4331
+  832MAURELIO JOSE CANDIDO                    7  1 18,4757
+  840MARIO PEREIRA                            5  1 18,4159
+  843SILVANA DE L. R. PEREIRA                22  1 18,7438
+  856JANETE LICKMANN AQUINO                   6  1 19,3488
+  866MARTA G. DA R. V. DE EUCLIDES           21  1 17,5463
+  871CISLENE C. S. EGER                       7  1 19,4681
+  874MARIA FERNANDES                          5  1 17,9168
+  880ROSILEI FIDELES                         13  1 16,8007
+  899PAULINA MALINOWSKI CESCONETTO           24  1 16,2450
+  941ROSELI APARECIDA B. F. MOKWA             8  1 19,8395
+  967MARCIO ROBERTO KIRSCHEN                  0  1 19,9371
+  968DORVALINA PRETI DA MORAES               24  1 18,7384
+  987INGOMAR SANTOS                           7  1 19,8426
+  993MARCIO DE ASSIS BUSARELLO                9  1 19,0277
+    1MARISE SASSE CAMPESTRINI                13  1 18,9504
+    2MARLETE MATIAS                           9  1 15,4777
+    3JOCI APARECIDA ELI JAROCZINSKI          28  1 17,5194
+    4MARIA LEONIR DZIOBA                      4  1 18,1458
+    6NEUSA DOS SANTOS REBELATTO              11  1 18,9963
+    7DANIELE WINTER                          24  1 18,8477
+    9EDINEIA GOMES SALLES DE EGER            28  1 16,6587
+   11ELISABETE K. LESSING                     1  1 18,7444
+   13EUGELCIO STENGER                         3  1 19,5866
+   14ROSELI VIEIRA DOS SANTOS MORAIS         22  1 19,1148
+   19FABIANA RADDATZ CORREA                   9  1 17,9355
+   23DANIELA CRISTINA HAFEMANN               24  1 16,3042
+   25ELIZABETE CASTRO DA SCHULTZ             22  1 18,5475
+   28ALEX DE OLIVEIRA DRAEGER                11  1 16,3685
+   37ILIETE APARECIDA MATKEVICZ               4  1 18,9096
+   38LEOCADIA KAUDER MADER                   19  1 16,3163
+   42IRAN DE ROCHINSKI                        6  1 19,8875
+   52ELIANE APARECIDA DA RISSO                9  1 16,8528
+   59ROSANA MARIA PINTARELLI SILVA           25  1 17,9109
+   66PATRICIA KLOSTER                         8  1 17,0161
+   70DARCI WEBER                              3  1 15,0438
+   71CRISTIANE OLIVEIRA KANIS                21  1 16,2768
+   72MARIA JAQUELINE PIETRUCHALEK BIEGING    21  1 18,1641
+   81CRISTIANE RENATA MORAES                 22  1 15,2516
+   88ZILAMAR DE SANTANA SHMOLLER             12  1 17,0831
+   92ROSEMEIRE NASCIMENTO                     7  1 18,5482
+   93ZENILDE ROESEL                          19  1 15,8724
+   94LUIS ACACIO KIENEN                       4  1 15,2489
+   96ADIR REITER                              8  1 19,7884
+  102FLAVIO APARECIDO DO TARACHUCKY           8  1 17,9805
+  103ASTA LIDIA BITENCOURT                   28  1 15,1064
+  107EVERTON VERISSIMO ANDRES                21  1 16,9289
+  110SIDNEY EGGERS                            7  1 18,7937
+  113MAICON MATOS MEDEIROS                   15  1 17,6723
+  114ROGERIO ERDMANN                         28  1 19,6168
+  116ADEMIR BRIGHENTI                         0  1 18,3796
+  117ADILSON FLEMING                         28  1 15,4913
+  118MAURICI VALERIO SAFANELLI                7  1 18,9007
+  120MARLISE QUEVEDO                          9  1 19,9923
+  124MARCIANE DE BESEN                       24  1 19,5065
+  125ROSELI RANGHETTI POLIDORO                8  1 19,4855
+  127SIMONE DAS NEVES ROSA                   18  1 15,0653
+  128ELOIR JOSE LEITOLD                       1  1 18,1501
+  129ADELMO SILVEIRA DE ZAPELINI             16  1 15,6167
+  133LIZETE KNOCH                            20  1 18,8352
+  140ISONEIA LAFFIN RIBEIRO                  27  1 15,9889
+  141GERALDO HERHARDT                         8  1 15,0022
+  142FERNANDO JOSE CARDOSO                    3  1 19,1074
+  146ROSEMERI ALFLEN KOERBES                  1  1 17,4420
+  149JOSE AUGUSTO DA GINOW                   16  1 15,2836
+  155LEONORA WOLF LIESENBERG                 16  1 17,2194
+  160MARGALI SIEVERS KRUG                    21  1 15,8581
+  164AUREA EICHTAD HEIDEMANN                  7  1 16,4404
+  165RENATO SCHERER                          22  1 17,9064
+  169MARLI MARIA BRUCH                        6  1 19,5834
+  173CLAUDEMIR FRANCA ROSKOWSKI               1  1 17,6127
+  175ELIANE MULLER                           15  1 19,1758
+  178ADRIANA PEREIRA                          5  1 15,1355
+  184JULIANA FIAMONCINI                      15  1 15,4801
+  187SANDRA DE O. TARDEM FRANKEN              8  1 15,7499
+  188ANDRESA FERREIRA M. DALLA COELHO        27  1 17,4994
+  191LIGIA BRAATZ DA SILVA KOEGLER            4  1 19,6354
+  196ELISANGELA MOSER                        17  1 18,6304
+  197ELIANA CARLA PEREIRA                    17  1 15,4694
+  199ANTONIO CARLOS PEREIRA                  26  1 17,8812
+  203NAIMI KRUGER ANVERZE                     2  1 16,9862
+  205SANDRA MARISA VENTURA WACKHOLZ          24  1 18,0502
+  206ADRIANA PEREIRA DOS LIMA                 5  1 17,0582
+  215CLAUDETE AP.O.FARIAS DA MULLER           8  1 18,4494
+  216ANA MARIA DE SOUZA G. DE MASSANEIRO     22  1 19,3420
+  217ALVINA PUTKA ULLER                       7  1 19,5915
+  221ADRIANA ANSELMO                         26  1 18,6717
+  224EDINA SCHWIRKOWSKI                      17  1 15,6195
+  225LUCIANE SCHMITZ ANDRE                    4  1 17,4425
+  226JULIO CESAR CHEUCHUK                     2  1 18,2134
+  227JUDITE SILVA                            12  1 15,0693
+  228ALCIRENE GRANDES DE PAULA               24  1 19,1142
+  238CLARICE APARECIDA RUYSAN                15  1 17,1479
+  248KLEBER LUIS ALCARAZ                     25  1 19,0367
+  249ELENICE M. H. SURDI                     16  1 17,7911
+  252IDA MARIA SPIESS                         0  1 16,6877
+  254CIONARA MORAUER                          4  1 16,6800
+  256VIVIANE PEZZATTI SESMA                   0  1 18,8430
+  262MARLISE PRETTI                          28  1 15,0930
+  265VIVIAN DARLEIA SCHIPITOSCKI             12  1 16,7457
+  270MARLI DE RAITZ                          17  1 16,7589
+  272QUETINA ANDREIA BERNS                   28  1 16,9712
+  275ANDREIA POFFO                           11  1 15,2722
+  280EMERSON VALDIR SILVA                    10  1 15,6939
+  282MARIO CESAR DERETTI                      2  1 19,5112
+  295CARLOS F. VAZ DOS SILVA                 22  1 15,1094
+  296ADELINO LOURENZETTI                     23  1 16,9080
+  297JAILTON PAULO KLUK                      15  1 19,7658
+  308RAQUEL SANTOS                           27  1 15,4783
+  309JOAO MARTINHO SILVA                      3  1 19,1506
+  310ALISSON FRANCO DA MATHES                 5  1 17,0363
+  311RAQUEL LARA OKADA                       26  1 17,9616
+  314FRANCIANE TORQUATO                      23  1 17,9379
+  330JACKSON ALVES                            0  1 17,2970
+  331LINDOMAR CASTILHO DE MAINKA             11  1 18,6587
+  332ANA AMERICA DEFANTE                     26  1 18,5454
+  333MORGANA POVOAS                          28  1 16,7010
+  334IVOIR SERAPIAO OKADA                     5  1 17,1986
+  335NEUDIR DE MULLER                         7  1 18,0049
+  336RAFAEL RODRIGO NISHIOKA                  6  1 15,7277
+  338DALMIR JOSE MACHADO                     26  1 18,4570
+  346FATIMA NORIKO VENCESLAU                 20  1 18,3697
+  349ROSANGELA DA KISNER                     20  1 18,1068
+  351SILVETE BASSANI DA ROSSI                 0  1 17,2183
+  354NORMA GRACIELA ZOCCATELLI                1  1 16,4980
+  355MATILDE FLORINDA ZELFELD                28  1 16,8675
+  357SIMONE CZUIKA MAINARDES                  2  1 15,1541
+  363PRISCILA APARECIDA SOUZA                18  1 16,2647
+  370DEBORAH ROSA                            24  1 16,3815
+  371MARISE BOLDUAN KIEDIS                    9  1 18,4516
+  372EDSON DOS SILVA                         25  1 17,5002
+  375PAULO BERNARDO MELLO                    23  1 19,6873
+  377NAIR TEIXEIRA                            9  1 19,0484
+  384INACIO BUENO ZIEHLSDORFF                11  1 15,7603
+  388JOEL JOAO SOUZA                          3  1 17,7148
+  391WALTER ANIBAL T. SANTOS                 25  1 18,0311
+  392TIAGO PELEGRINO DERETTI                  2  1 19,5146
+  397DAIANE RAQUEL FIGUR                      2  1 16,3739
+  402GESIELI GESSNER                          7  1 15,4594
+  413WAGNER DE SILVA                         19  1 18,9071
+  414SIDNEI PEREIRA                          25  1 17,0593
+  417HERIBERTO N. DE O. ZAPELLINI            14  1 16,1420
+  422SILVANA BARBOSA FROGEL                  10  1 15,1077
+  425MARIA LUCIA ARENT NUNES                 10  1 19,5365
+  430JANICE SCHMULLER SANTOS                  3  1 15,7721
+  431VERA LUCIA SCHINAIDER                   19  1 15,9751
+  434JOICE TEREZINHA HANG                     1  1 19,3797
+  439ANESIA M. DE LIMA DOS STIPP              1  1 16,6445
+  441LUCIANA MARA DERETTI                     8  1 19,0192
+  442CESAR GILMAR COELHO                     22  1 16,1528
+  446JOICE DORN                              22  1 17,9780
+  447MARILENE M. PICCOLI                     18  1 18,5837
+  449JANETE MOKWA                             3  1 17,7190
+  453MILENE CRISTINE PEDRI PAULI             14  1 16,4393
+  456OSMAR KOSLOPP                           10  1 15,8893
+  458LUCINEIA DA SILVEIRA                    18  1 17,6158
+  459SOLANGE APARECIDA WINTRICH KOPP         21  1 18,3881
+  464ROSEMERI SERAFIM RANGHETTI              19  1 19,6197
+  468EDSON VEGINI                            15  1 18,7258
+  469DILNEI COSTA                            11  1 15,5359
+  472CHRISTA SIMONE BESSA                    28  1 15,7046
+  475ADIR PEREIRA DOS RUFINO                 22  1 19,5462
+  476ANA PAULA SIEDLECKI                     28  1 15,6006
+  483ELIANE COSMO                             2  1 15,7484
+  484ALCIONEI SIMOES                         11  1 15,2510
+  488ZENILDE DE SOUZA CIEPLY                  8  1 19,5960
+  496JOSIANE APARECIDA P HEIDECKE            27  1 15,9530
+  498MARCIA QUEIROZ                           8  1 15,8089
+  501CESAR ROBERTO STREHL                    16  1 19,9040
+  505CLAUDETE MEZALIRA BRAIER                23  1 17,5235
+  509CLADIS SONIA EHLERT FRANCO               9  1 16,5134
+  512JOSIANE PACKER ZANGHELINI               20  1 19,4098
+  515JORGE LUIZ SILVA                         0  1 17,3237
+  516RUTH ZICK                               11  1 15,1076
+  517MARILSE SCHULZ                           9  1 18,1779
+  520JANE MARIA SACHT                         2  1 16,9495
+  522ADRIANO FERREIRA                         9  1 16,5822
+  530VANIA LIA GUNZ SCHLENDER                25  1 18,2891
+  531TANIA BARTEL WENDORFF                    3  1 19,8468
+  533CLAUDIA GIACOMOZZI SCHIFLER              2  1 15,7596
+  534IOVANCA SCABURI SPEZIA                  17  1 18,4734
+  537ELIZA GEANE SANTOS                      28  1 15,9566
+  541JUCELIA SCHRAGLE CAMILO                  3  1 18,9864
+  544HILDA KRUTZSCH                          10  1 17,9058
+  550HEIDEROSE NEUMANN                       17  1 17,3819
+  552GERSON LUIS DE LARGURA                  28  1 19,0595
+  561MARIA BERENICE ODWAZNY MACHADO           4  1 17,8632
+  562KATIANA HECK SOUZA                       2  1 17,7943
+  563KATIA SCHMITZ ALMEIDA                   22  1 17,0381
+  566VANESSA SIQUEIRA                         1  1 19,4761
+  569IRACEMA INES DA SILVA AUERHAHN          16  1 15,2582
+  570MARISTELA JURK                          12  1 17,1089
+  577MARLETE NEITSCH CARVALHO                22  1 15,8350
+  581NOELI VIEBRANTZ ECCEL                   17  1 15,6642
+  585GIRLENE SCHRANK                          1  1 16,1945
+  586ILZELORI PIRES                           8  1 18,5401
+  589ZENAIDE MARISA DE O. SILVA               9  1 18,7996
+  592MARISETE CATARINA GOES R DE TOFFOL      23  1 17,0882
+  594ODAIR SIDINEI ROSARIO                    1  1 16,7628
+  596LECIMAR DE SOUZA CANI                   10  1 19,8625
+  601CRISTIANE WENHOLZ                       15  1 15,1602
+  606LUIS CARLOS RANGHETTI                    3  1 15,8448
+  611CLOVIS LUIZ OLIVEIRA                    14  1 15,6157
+  613NADIR BARUFFI RAYMUNDO                   3  1 18,4443
+  616MARCIA HACK SLOMECKI                     5  1 18,5549
+  622ANTONIO GILMAR DECKER                   20  1 15,0329
+  628DIRCEU BARBOSA                           0  1 18,6571
+  633KLAUS FENRICH                           21  1 16,6892
+  636JEAN CARLOS VIERGUTZ                    14  1 16,6037
+  638IVANDRO KRISCHANSKI                     19  1 16,6251
+  640ROBERTO LIMA                            12  1 17,4663
+  642CATIA M. DE SOUZA BERTOLI                9  1 19,5404
+  653MARIA LUCIA B. ORIBKA                   11  1 16,1411
+  656JUCEMARE AP SASSE DOEGER                 5  1 15,3445
+  662INGRIDT STADLER                          2  1 18,7888
+  667ROSSIANE CRISTINA DA OSOVSKI             0  1 19,6079
+  670JUSSARA PRADO                            9  1 15,9137
+  672NARA REGINA KUMMETZ DA GADOTTI           5  1 18,6221
+  676EDICLEIA DIAS                            5  1 19,0895
+  677CELI ADRIANA GIRALDI QUOST               4  1 18,6331
+  678SUELI ZILS CORREA DE LEWIN               0  1 19,7480
+  679DAIANE CAMILA JUNKES                     6  1 15,0387
+  680GILSON MADRUGA DO GETNERSKI             20  1 16,7925
+  686DINEUZA MARIA MARTINI FORMIGARI         10  1 18,1641
+  688MARCELO CORREIA                         23  1 19,3084
+  691VANESSA ALDROVANDI EGER                 24  1 18,3404
+  692EDSON CARLOS MATOS                      12  1 18,4166
+  697TAGIANE TAJANARA POTER                   7  1 17,8543
+  700CONCEICAO APARECIDA DA VIEIRA            8  1 15,7033
+  712VERA APARECIDA RUSTICK                  18  1 18,5364
+  725NEIVA DE FATIMA FORTES                   6  1 18,7483
+  730SIMONE REGINA W PINHEIRO                28  1 18,3034
+  741ALAN RODRIGO LOURENCO DA LIMAS          17  1 17,2035
+  747ALDENIR BALTAZAR DA MATHIAS              0  1 19,8148
+  750SIMONE FERNANDES                         7  1 15,2816
+  754CLEBER ANTONIO PARIZOTTO                22  1 19,6009
+  760LUIS HENRIQUE DUARTE                    18  1 19,9625
+  762GILBERTO STENGER                         4  1 19,1923
+  763DEBORA LOURENZETTI                       9  1 16,8724
+  771MARIZE ALDROVANDI MOREIRA               12  1 16,9329
+  775RODRIGO DALPRA                          15  1 17,2504
+  776DILMA ROSA                              11  1 16,5461
+  777SANDRA TEREZINHA PRADO                  22  1 19,6200
+  778BEATRIZ MOREIRA OLIVEIRA                 7  1 19,8706
+  784DEBORA DE FATIMA PONATH                 28  1 15,1806
+  785VILMA REGINA MAIDA STAINZACK             9  1 18,6282
+  786MARCIA SOLANGE K. LANGE                 12  1 16,2787
+  787DENISE LIPINSKI SPRUNG                  25  1 16,1399
+  790LUCELENE PENKE                           0  1 17,2071
+  793ADELIA MELO                              2  1 19,4215
+  795ANAIR ARENDT CATANEO                    16  1 15,0351
+  797SILVANA JUNKES                          10  1 16,2345
+  802RICARDO RICHTER                         16  1 18,3185
+  803LENISIA MADER                            2  1 17,2434
+  804HELENA MARIA LOFF                       18  1 15,4668
+  806IMERI TEREZINHA MENESTRINA               8  1 17,8197
+  810LUCIANA ULLER KEIL                      22  1 17,5295
+  819ADELINA LODI                            15  1 17,2694
+  823IRACEMA KATCHAROWSKI                    27  1 16,7426
+  826CASSIA CILENE BEYER FREITAS              2  1 15,9025
+  833JEAN CARLO SAKAYA                        7  1 15,8154
+  838MARCIA I. MALLMANN SERPA                 0  1 19,4636
+  844ANDREIA CANDIDO D. DREWS                13  1 15,0445
+  845YARA CRISTINA SCHEPLE SOUZA             27  1 19,0064
+  846MARLI DERETTI                            8  1 15,2471
+  849CLAUDINEIA RIEGEL FRANCENER             15  1 16,2583
+  850ROSALI KASMIRSKI WERNER                 13  1 18,8626
+  854LUCIANA FLEMING JOANELA                 23  1 17,8999
+  857MARIA E. Z. SAVULSKI                     1  1 17,5876
+  861MARCIA IRIANE MARTINS                   12  1 18,3098
+  862GENECI DO CALMO SCHIOCHET               11  1 18,2992
+  864VERONICA POLIDORO KIZEMA                21  1 19,7147
+  883LUCIANE WOLF GETNERSKI                  15  1 16,4795
+  884JULIANA RANGHETTI                        4  1 19,5607
+  885SANDRA R. K. WINTER                      6  1 16,7568
+  888SUZIMARA DOS SANTOS LUCIANO              5  1 19,1482
+  889SILVANA A. CAGNINI SANTHIAGO             4  1 17,2926
+  890ROGERIO DANIEL                          17  1 18,2247
+  893ELIANE CRISTINA V. BENTO                 3  1 15,4132
+  895VALDETE GAZZOLA                          3  1 17,6471
+  900SILVANE LEITZKE LEVANDOWSKI              7  1 19,4886
+  901JULIO CEZAR ALVES GORISCH               13  1 19,2193
+  908JANI ROBERTA MACHADO                     5  1 19,7240
+  909PATRICIA PRETTI SOUZA                   25  1 16,7211
+  913TANIA MARIA BOTELHO                     21  1 19,5924
+  914ADILCE PASQUALINA BERTRAM                8  1 17,5277
+  915MARLISE K. ZAPPELLINI                   13  1 19,1986
+  917EUNICE FEDER VEZARO                      2  1 15,9992
+  919ALCIONE HAFEMANN DE KREHNKE             17  1 18,0438
+  924ELIANE JANKE GUTKNECHT                   3  1 15,9876
+  925SALETE MARTINELLI OLIVEIRA              18  1 19,5196
+  927SALETE FRANZENER CASSOL                  9  1 17,6955
+  929MARCOS C. FISCHER                       19  1 17,0829
+  930JOSE ALVERI DOS SANTOS ZICK             18  1 16,4472
+  936MARCIA M. LENZ ERBS                     26  1 15,8833
+  942IRENE LINK                              19  1 15,0500
+  948CATIANE GARCIA SOUZA                    23  1 16,1616
+  951RENATE ROSE LINDNER                      0  1 19,1893
+  960MARCELA NARDELLI LICKFELD               23  1 19,0501
+  963ODETE W. RADDATZ                         4  1 15,4189
+  966MARCIA LORENA STEFFEN                   17  1 15,8933
+  975CHARLES FORMIGARI                       15  1 16,5519
+  976JOICE JUSSARA KNOPP SILVA               18  1 19,5557
+  977AUREA M. RIEGEL                         20  1 15,7918
+  980IVO STEDILE                             11  1 19,3913
+  986CRISTIANO LOURENCO DA ALFLEN             4  1 18,4485
+  989VALMIRA PADILHA                          4  1 15,5922
+  998JOSE ABEL GABRIELE                      11  1 18,0769
+ 1000ADELAIDE KREUZ DE HANSEN                 0  1 19,8363
+   30JUSSARA RAQUEL VOLPI                    11  2 73,0507
+   34NEUSA BOSCATO SANTOS                    26  2 65,8469
+   49MALGARIDA BASSO GUESSER                 11  2 72,0067
+   89GRAZIELA ZANON                          17  2 61,7608
+   97IVAN FREIRE                             27  2 75,9775
+  106SOLANGE MARIA ADAM                       8  2 77,7058
+  112SANDRO LADISLAU BORIES CHIODINI          3  2 68,4184
+  126CATIANE MOHR CASTRO                     25  2 78,3055
+  154ZENAIDE ADRIANE BORGONHA                 5  2 75,4378
+  174SHIRLEI BATISTA DOS SANTOS GEISSLER     21  2 71,1339
+  195ELEMAR COUTO                             1  2 69,5340
+  204SANDRA MARA CORREA                       2  2 60,4961
+  207PATRICIA APARECIDA ZAPELLA              11  2 74,8733
+  208CINTIA JANICE TIRONI                     5  2 73,4846
+  212NIHUANA ADAM                            22  2 65,1831
+  232MARCELO SCHWIRKOWSKY                    27  2 79,6273
+  237SILVANE DE FATIMA C.DE SCHMIDT          11  2 67,0960
+  243FERNANDA RIGON JAHN                     17  2 78,8522
+  250ISABEL FOGULARI SALES                   15  2 79,5654
+  251ANISIA GUTKNECHT MULLER                 16  2 67,6153
+  267SONIA DE SOUZA RECH                      7  2 74,3681
+  289DIONEI CASTAGNA                         21  2 77,8986
+  292SANDRA REGINA ALVES                      2  2 66,1758
+  305HELIZABETE WENGRATT DA SANTOS           22  2 77,8271
+  306MICHELE NIELSEN                         22  2 77,1983
+  340ADRIANA GRAMM                            8  2 76,9931
+  343JULIANA PARUCKER FRITSCH                17  2 78,3122
+  344LUCIMARA DOS SANTOS BARTEL               2  2 74,9859
+  345CINTIA DA SILVA MASSANEIRO              12  2 63,5084
+  350KATIA JANICE MARTINS CARVALHO           23  2 60,4916
+  362TATIANE SANTOS                          19  2 64,1077
+  376ROSALVA MARIA ANJOS                      7  2 70,9826
+  378LUZIA DE F. WAN-ZUIT ROCHA               1  2 60,1131
+  380VIVIANA DEFANTE SOUZA                   26  2 68,2134
+  398LUCIANA FIGUEIREDO DE OECHSLER          22  2 73,2045
+  401IVANILDE AP.MARTINI CORDEIRO DOS MACHADO27  2 64,7095
+  418ALEX SANDRO JOSE                        23  2 78,0350
+  419SIMONE APARECIDA MORAES                  6  2 68,7815
+  429JULIANA GONCALVES DE SIMETTE             1  2 67,8221
+  433SANDRA RAULINO                           9  2 79,4416
+  471MARCOS ROBERTO THOMSEN                  14  2 69,5961
+  473DEIVE DANIEL OLIVEIRA                   27  2 78,0893
+  485MARILDA DE SOUSA XAVIER                 13  2 68,7763
+  494SILMARA APARECIDA BARBOSA FILIPP        27  2 78,3808
+  497JOYCE GUSE KRAUSE                        0  2 75,9862
+  523ESTEVO MAAS                              6  2 63,5917
+  524ROSANE ANDRES OLIVEIRA                  18  2 79,6344
+  525ADRIANE GARCIA RAMOS                    18  2 65,2189
+  535CRISTIANE BAUMANN OLIVEIRA              25  2 62,6747
+  553VALDIR JOSE KREUTZFELD                  26  2 66,6477
+  560CRISTIANE DERETTI                        9  2 78,1448
+  568LUZIA RANDIG                            11  2 60,6069
+  575JOSEANE CAMPESTRINI                     19  2 64,4843
+  579DEUSIANE SOUSA S.DE SOARES               0  2 76,1309
+  598ROSANA KOCH                             20  2 67,5438
+  602MARCIO DE GONCALVES                     17  2 71,5149
+  604LUCIANO CANDIDO DO CORREA               18  2 66,1379
+  615MARCIO VEGINI                            6  2 71,3329
+  619SIRLEI APARECIDA SPEZIA                 11  2 74,5795
+  634MARCIA HELENA DA SILVA OLIVEIRA         13  2 60,8578
+  645VALERIO GESSER                          17  2 73,4082
+  664CLAUDIO SANTOS                          23  2 62,7860
+  665LINDACIR GOMES DOS KRISCHANSKI          15  2 75,7953
+  674IVONETE BARBOSA DOS CANTON              20  2 67,7973
+  704CATIA LENIR DE SIGNORELLI               20  2 76,4282
+  732MARLENE ROPELATO N. DA SANTOS           28  2 75,5439
+  742ALBINO SOEL LEMES DOS HEIMANN            8  2 69,9756
+  746RADAMES GAEDTKE                         25  2 64,4601
+  753SANDRO LUIS SCHEUER                     18  2 62,4227
+  766PAULO ROBERTO DOS BAUMANN                6  2 68,6022
+  773MARILENE POTTKER PAULUS                 18  2 78,7424
+  781CRISTIANO BRAATZ                         8  2 62,4219
+  788CLAUDILENE BERTOLDI                     11  2 75,3533
+  807IRENE RUSCH KUPAS                        9  2 71,0690
+  811TANIA KUCHNIER                          12  2 79,8686
+  815NEODIR STEFFEN                          24  2 63,9182
+  837ADOLA LODI                               4  2 72,8913
+  841KATIA STEINERT DELLING                   6  2 61,8568
+  847LIAMARA TAIS Z. BRAATZ                  22  2 75,6147
+  848MARIA SIMONI RANGHETTI                  14  2 65,3340
+  863MARCIA SUELI MALINSKI                   14  2 69,0353
+  877MARISETE BONETTI RINCAWESKY             21  2 77,1205
+  886MIRIAN RINCUS KOCH                      24  2 79,4787
+  892GISELE MANOEL                            4  2 70,5265
+  894GILSON KLITZKE                          26  2 73,1215
+  903ADEMILDO MARTINS                         3  2 66,8967
+  904GERSON SONI PACHECO                     14  2 74,9620
+  921ANDREIA VENSKE SCHELBAUER               26  2 62,2861
+  923MARCELO JOSE RUCKERT                    18  2 77,1798
+  945SIMONE FATIMA SCHEUER EUCLIDES           9  2 61,3909
+  955ELISABETH BAADE DA ADAM                 25  2 65,0601
+    1MARISE SASSE CAMPESTRINI                13  2 64,1170
+    2MARLETE MATIAS                           9  2 64,9678
+    3JOCI APARECIDA ELI JAROCZINSKI          28  2 75,7553
+    4MARIA LEONIR DZIOBA                      4  2 79,6424
+    6NEUSA DOS SANTOS REBELATTO              11  2 67,7709
+    7DANIELE WINTER                          24  2 68,8108
+    9EDINEIA GOMES SALLES DE EGER            28  2 61,1622
+   11ELISABETE K. LESSING                     1  2 73,2215
+   13EUGELCIO STENGER                         3  2 77,8796
+   14ROSELI VIEIRA DOS SANTOS MORAIS         22  2 79,9360
+   19FABIANA RADDATZ CORREA                   9  2 73,5181
+   23DANIELA CRISTINA HAFEMANN               24  2 75,1479
+   25ELIZABETE CASTRO DA SCHULTZ             22  2 68,1685
+   28ALEX DE OLIVEIRA DRAEGER                11  2 77,4586
+   37ILIETE APARECIDA MATKEVICZ               4  2 73,6806
+   38LEOCADIA KAUDER MADER                   19  2 63,1792
+   42IRAN DE ROCHINSKI                        6  2 69,3193
+   52ELIANE APARECIDA DA RISSO                9  2 70,3315
+   59ROSANA MARIA PINTARELLI SILVA           25  2 71,8150
+   66PATRICIA KLOSTER                         8  2 63,9845
+   70DARCI WEBER                              3  2 62,3837
+   71CRISTIANE OLIVEIRA KANIS                21  2 68,2592
+   72MARIA JAQUELINE PIETRUCHALEK BIEGING    21  2 68,4836
+   81CRISTIANE RENATA MORAES                 22  2 75,7903
+   88ZILAMAR DE SANTANA SHMOLLER             12  2 60,1673
+   92ROSEMEIRE NASCIMENTO                     7  2 67,3963
+   93ZENILDE ROESEL                          19  2 67,0655
+   94LUIS ACACIO KIENEN                       4  2 74,5287
+   96ADIR REITER                              8  2 73,8251
+  102FLAVIO APARECIDO DO TARACHUCKY           8  2 76,1666
+  103ASTA LIDIA BITENCOURT                   28  2 65,5398
+  107EVERTON VERISSIMO ANDRES                21  2 70,3355
+  110SIDNEY EGGERS                            7  2 76,4157
+  113MAICON MATOS MEDEIROS                   15  2 67,0418
+  114ROGERIO ERDMANN                         28  2 64,9197
+  116ADEMIR BRIGHENTI                         0  2 62,9783
+  117ADILSON FLEMING                         28  2 78,7082
+  118MAURICI VALERIO SAFANELLI                7  2 60,8346
+  120MARLISE QUEVEDO                          9  2 75,9283
+  124MARCIANE DE BESEN                       24  2 66,1573
+  125ROSELI RANGHETTI POLIDORO                8  2 79,6212
+  127SIMONE DAS NEVES ROSA                   18  2 73,4412
+  128ELOIR JOSE LEITOLD                       1  2 65,3159
+  129ADELMO SILVEIRA DE ZAPELINI             16  2 67,7740
+  133LIZETE KNOCH                            20  2 74,6026
+  140ISONEIA LAFFIN RIBEIRO                  27  2 74,9498
+  141GERALDO HERHARDT                         8  2 75,5887
+  142FERNANDO JOSE CARDOSO                    3  2 73,1681
+  146ROSEMERI ALFLEN KOERBES                  1  2 73,5629
+  149JOSE AUGUSTO DA GINOW                   16  2 69,3847
+  155LEONORA WOLF LIESENBERG                 16  2 79,4644
+  160MARGALI SIEVERS KRUG                    21  2 77,2035
+  164AUREA EICHTAD HEIDEMANN                  7  2 79,1676
+  165RENATO SCHERER                          22  2 71,4456
+  169MARLI MARIA BRUCH                        6  2 71,0862
+  173CLAUDEMIR FRANCA ROSKOWSKI               1  2 63,4605
+  175ELIANE MULLER                           15  2 70,6503
+  178ADRIANA PEREIRA                          5  2 66,5768
+  184JULIANA FIAMONCINI                      15  2 77,6614
+  187SANDRA DE O. TARDEM FRANKEN              8  2 61,7081
+  188ANDRESA FERREIRA M. DALLA COELHO        27  2 71,8866
+  191LIGIA BRAATZ DA SILVA KOEGLER            4  2 64,3325
+  196ELISANGELA MOSER                        17  2 66,8476
+  197ELIANA CARLA PEREIRA                    17  2 65,5426
+  199ANTONIO CARLOS PEREIRA                  26  2 61,3081
+  203NAIMI KRUGER ANVERZE                     2  2 65,3823
+  205SANDRA MARISA VENTURA WACKHOLZ          24  2 74,8201
+  206ADRIANA PEREIRA DOS LIMA                 5  2 66,0507
+  215CLAUDETE AP.O.FARIAS DA MULLER           8  2 67,9906
+  216ANA MARIA DE SOUZA G. DE MASSANEIRO     22  2 66,9102
+  217ALVINA PUTKA ULLER                       7  2 72,5680
+  221ADRIANA ANSELMO                         26  2 74,0877
+  224EDINA SCHWIRKOWSKI                      17  2 60,4852
+  225LUCIANE SCHMITZ ANDRE                    4  2 77,8635
+  226JULIO CESAR CHEUCHUK                     2  2 68,8316
+  227JUDITE SILVA                            12  2 63,3844
+  228ALCIRENE GRANDES DE PAULA               24  2 61,0238
+  238CLARICE APARECIDA RUYSAN                15  2 61,8469
+  248KLEBER LUIS ALCARAZ                     25  2 64,8017
+  249ELENICE M. H. SURDI                     16  2 75,2950
+  252IDA MARIA SPIESS                         0  2 62,2549
+  254CIONARA MORAUER                          4  2 74,3794
+  256VIVIANE PEZZATTI SESMA                   0  2 65,3410
+  262MARLISE PRETTI                          28  2 70,3248
+  265VIVIAN DARLEIA SCHIPITOSCKI             12  2 76,7664
+  270MARLI DE RAITZ                          17  2 63,1627
+  272QUETINA ANDREIA BERNS                   28  2 61,8932
+  275ANDREIA POFFO                           11  2 79,0370
+  280EMERSON VALDIR SILVA                    10  2 76,6617
+  282MARIO CESAR DERETTI                      2  2 74,3113
+  295CARLOS F. VAZ DOS SILVA                 22  2 75,1720
+  296ADELINO LOURENZETTI                     23  2 68,2872
+  297JAILTON PAULO KLUK                      15  2 68,0098
+  308RAQUEL SANTOS                           27  2 61,5776
+  309JOAO MARTINHO SILVA                      3  2 77,1270
+  310ALISSON FRANCO DA MATHES                 5  2 71,5156
+  311RAQUEL LARA OKADA                       26  2 60,2884
+  314FRANCIANE TORQUATO                      23  2 77,2587
+  330JACKSON ALVES                            0  2 71,4933
+  331LINDOMAR CASTILHO DE MAINKA             11  2 64,4069
+  332ANA AMERICA DEFANTE                     26  2 66,3133
+  333MORGANA POVOAS                          28  2 71,3847
+  334IVOIR SERAPIAO OKADA                     5  2 73,9482
+  335NEUDIR DE MULLER                         7  2 68,5929
+  336RAFAEL RODRIGO NISHIOKA                  6  2 76,0631
+  338DALMIR JOSE MACHADO                     26  2 67,7722
+  346FATIMA NORIKO VENCESLAU                 20  2 77,3933
+  349ROSANGELA DA KISNER                     20  2 69,4960
+  351SILVETE BASSANI DA ROSSI                 0  2 73,8201
+  354NORMA GRACIELA ZOCCATELLI                1  2 62,9239
+  355MATILDE FLORINDA ZELFELD                28  2 60,7109
+  357SIMONE CZUIKA MAINARDES                  2  2 62,4574
+  363PRISCILA APARECIDA SOUZA                18  2 72,1249
+  370DEBORAH ROSA                            24  2 62,4942
+  371MARISE BOLDUAN KIEDIS                    9  2 77,0811
+  372EDSON DOS SILVA                         25  2 60,0563
+  375PAULO BERNARDO MELLO                    23  2 77,9705
+  377NAIR TEIXEIRA                            9  2 65,4689
+  384INACIO BUENO ZIEHLSDORFF                11  2 75,4843
+  388JOEL JOAO SOUZA                          3  2 65,9209
+  391WALTER ANIBAL T. SANTOS                 25  2 63,7596
+  392TIAGO PELEGRINO DERETTI                  2  2 77,5094
+  397DAIANE RAQUEL FIGUR                      2  2 62,9711
+  402GESIELI GESSNER                          7  2 62,3599
+  413WAGNER DE SILVA                         19  2 73,7833
+  414SIDNEI PEREIRA                          25  2 62,7822
+  417HERIBERTO N. DE O. ZAPELLINI            14  2 60,1096
+  422SILVANA BARBOSA FROGEL                  10  2 61,2266
+  425MARIA LUCIA ARENT NUNES                 10  2 67,4034
+  430JANICE SCHMULLER SANTOS                  3  2 68,6494
+  431VERA LUCIA SCHINAIDER                   19  2 79,2613
+  434JOICE TEREZINHA HANG                     1  2 63,8447
+  439ANESIA M. DE LIMA DOS STIPP              1  2 76,0883
+  441LUCIANA MARA DERETTI                     8  2 79,0366
+  442CESAR GILMAR COELHO                     22  2 71,0498
+  446JOICE DORN                              22  2 67,9912
+  447MARILENE M. PICCOLI                     18  2 66,1994
+  449JANETE MOKWA                             3  2 78,4405
+  453MILENE CRISTINE PEDRI PAULI             14  2 63,5716
+  456OSMAR KOSLOPP                           10  2 60,4285
+  458LUCINEIA DA SILVEIRA                    18  2 74,5998
+  459SOLANGE APARECIDA WINTRICH KOPP         21  2 72,2143
+  464ROSEMERI SERAFIM RANGHETTI              19  2 79,1233
+  468EDSON VEGINI                            15  2 70,6746
+  469DILNEI COSTA                            11  2 64,3354
+  472CHRISTA SIMONE BESSA                    28  2 73,4590
+  475ADIR PEREIRA DOS RUFINO                 22  2 63,3739
+  476ANA PAULA SIEDLECKI                     28  2 77,8778
+  483ELIANE COSMO                             2  2 62,4390
+  484ALCIONEI SIMOES                         11  2 79,8418
+  488ZENILDE DE SOUZA CIEPLY                  8  2 67,3632
+  496JOSIANE APARECIDA P HEIDECKE            27  2 79,0619
+  498MARCIA QUEIROZ                           8  2 79,3749
+  501CESAR ROBERTO STREHL                    16  2 74,0433
+  505CLAUDETE MEZALIRA BRAIER                23  2 61,4162
+  509CLADIS SONIA EHLERT FRANCO               9  2 64,0830
+  512JOSIANE PACKER ZANGHELINI               20  2 60,8477
+  515JORGE LUIZ SILVA                         0  2 70,6637
+  516RUTH ZICK                               11  2 78,3138
+  517MARILSE SCHULZ                           9  2 78,4984
+  520JANE MARIA SACHT                         2  2 78,9164
+  522ADRIANO FERREIRA                         9  2 61,5610
+  530VANIA LIA GUNZ SCHLENDER                25  2 67,0551
+  531TANIA BARTEL WENDORFF                    3  2 72,6763
+  533CLAUDIA GIACOMOZZI SCHIFLER              2  2 71,5158
+  534IOVANCA SCABURI SPEZIA                  17  2 67,4793
+  537ELIZA GEANE SANTOS                      28  2 74,5853
+  541JUCELIA SCHRAGLE CAMILO                  3  2 67,5560
+  544HILDA KRUTZSCH                          10  2 69,7694
+  550HEIDEROSE NEUMANN                       17  2 63,2669
+  552GERSON LUIS DE LARGURA                  28  2 65,5282
+  561MARIA BERENICE ODWAZNY MACHADO           4  2 76,6579
+  562KATIANA HECK SOUZA                       2  2 74,8654
+  563KATIA SCHMITZ ALMEIDA                   22  2 63,6900
+  566VANESSA SIQUEIRA                         1  2 78,6587
+  569IRACEMA INES DA SILVA AUERHAHN          16  2 66,1419
+  570MARISTELA JURK                          12  2 75,6630
+  577MARLETE NEITSCH CARVALHO                22  2 60,0740
+  581NOELI VIEBRANTZ ECCEL                   17  2 65,5991
+  585GIRLENE SCHRANK                          1  2 78,7054
+  586ILZELORI PIRES                           8  2 77,7327
+  589ZENAIDE MARISA DE O. SILVA               9  2 73,3277
+  592MARISETE CATARINA GOES R DE TOFFOL      23  2 65,5695
+  594ODAIR SIDINEI ROSARIO                    1  2 73,3033
+  596LECIMAR DE SOUZA CANI                   10  2 69,1507
+  601CRISTIANE WENHOLZ                       15  2 65,6751
+  606LUIS CARLOS RANGHETTI                    3  2 77,5433
+  611CLOVIS LUIZ OLIVEIRA                    14  2 64,0707
+  613NADIR BARUFFI RAYMUNDO                   3  2 70,4880
+  616MARCIA HACK SLOMECKI                     5  2 63,1664
+  622ANTONIO GILMAR DECKER                   20  2 79,6971
+  628DIRCEU BARBOSA                           0  2 69,7421
+  633KLAUS FENRICH                           21  2 62,5927
+  636JEAN CARLOS VIERGUTZ                    14  2 64,2940
+  638IVANDRO KRISCHANSKI                     19  2 65,7340
+  640ROBERTO LIMA                            12  2 65,5526
+  642CATIA M. DE SOUZA BERTOLI                9  2 60,9683
+  653MARIA LUCIA B. ORIBKA                   11  2 64,2686
+  656JUCEMARE AP SASSE DOEGER                 5  2 63,2615
+  662INGRIDT STADLER                          2  2 65,3232
+  667ROSSIANE CRISTINA DA OSOVSKI             0  2 62,9491
+  670JUSSARA PRADO                            9  2 73,4365
+  672NARA REGINA KUMMETZ DA GADOTTI           5  2 61,5145
+  676EDICLEIA DIAS                            5  2 61,5684
+  677CELI ADRIANA GIRALDI QUOST               4  2 77,2055
+  678SUELI ZILS CORREA DE LEWIN               0  2 61,6490
+  679DAIANE CAMILA JUNKES                     6  2 74,5976
+  680GILSON MADRUGA DO GETNERSKI             20  2 73,9632
+  686DINEUZA MARIA MARTINI FORMIGARI         10  2 62,2469
+  688MARCELO CORREIA                         23  2 63,9854
+  691VANESSA ALDROVANDI EGER                 24  2 76,4591
+  692EDSON CARLOS MATOS                      12  2 64,8308
+  697TAGIANE TAJANARA POTER                   7  2 75,7609
+  700CONCEICAO APARECIDA DA VIEIRA            8  2 76,7137
+  712VERA APARECIDA RUSTICK                  18  2 70,8871
+  725NEIVA DE FATIMA FORTES                   6  2 74,8423
+  730SIMONE REGINA W PINHEIRO                28  2 60,7434
+  741ALAN RODRIGO LOURENCO DA LIMAS          17  2 69,5809
+  747ALDENIR BALTAZAR DA MATHIAS              0  2 72,1074
+  750SIMONE FERNANDES                         7  2 68,1214
+  754CLEBER ANTONIO PARIZOTTO                22  2 65,8689
+  760LUIS HENRIQUE DUARTE                    18  2 79,7611
+  762GILBERTO STENGER                         4  2 74,0701
+  763DEBORA LOURENZETTI                       9  2 73,2498
+  771MARIZE ALDROVANDI MOREIRA               12  2 69,7542
+  775RODRIGO DALPRA                          15  2 65,6088
+  776DILMA ROSA                              11  2 66,8795
+  777SANDRA TEREZINHA PRADO                  22  2 73,4143
+  778BEATRIZ MOREIRA OLIVEIRA                 7  2 77,5060
+  784DEBORA DE FATIMA PONATH                 28  2 72,4464
+  785VILMA REGINA MAIDA STAINZACK             9  2 62,9277
+  786MARCIA SOLANGE K. LANGE                 12  2 64,8755
+  787DENISE LIPINSKI SPRUNG                  25  2 62,9512
+  790LUCELENE PENKE                           0  2 68,0075
+  793ADELIA MELO                              2  2 66,9056
+  795ANAIR ARENDT CATANEO                    16  2 67,0978
+  797SILVANA JUNKES                          10  2 73,1444
+  802RICARDO RICHTER                         16  2 76,8021
+  803LENISIA MADER                            2  2 65,5425
+  804HELENA MARIA LOFF                       18  2 67,3469
+  806IMERI TEREZINHA MENESTRINA               8  2 73,5309
+  810LUCIANA ULLER KEIL                      22  2 66,1261
+  819ADELINA LODI                            15  2 74,2491
+  823IRACEMA KATCHAROWSKI                    27  2 74,6581
+  826CASSIA CILENE BEYER FREITAS              2  2 60,5083
+  833JEAN CARLO SAKAYA                        7  2 72,1487
+  838MARCIA I. MALLMANN SERPA                 0  2 67,0981
+  844ANDREIA CANDIDO D. DREWS                13  2 71,3912
+  845YARA CRISTINA SCHEPLE SOUZA             27  2 66,0692
+  846MARLI DERETTI                            8  2 75,2748
+  849CLAUDINEIA RIEGEL FRANCENER             15  2 76,9789
+  850ROSALI KASMIRSKI WERNER                 13  2 70,3000
+  854LUCIANA FLEMING JOANELA                 23  2 62,2242
+  857MARIA E. Z. SAVULSKI                     1  2 76,0536
+  861MARCIA IRIANE MARTINS                   12  2 78,7806
+  862GENECI DO CALMO SCHIOCHET               11  2 76,9781
+  864VERONICA POLIDORO KIZEMA                21  2 69,9960
+  883LUCIANE WOLF GETNERSKI                  15  2 79,0821
+  884JULIANA RANGHETTI                        4  2 67,2969
+  885SANDRA R. K. WINTER                      6  2 75,9589
+  888SUZIMARA DOS SANTOS LUCIANO              5  2 76,5219
+  889SILVANA A. CAGNINI SANTHIAGO             4  2 60,6903
+  890ROGERIO DANIEL                          17  2 71,7243
+  893ELIANE CRISTINA V. BENTO                 3  2 60,8784
+  895VALDETE GAZZOLA                          3  2 71,6820
+  900SILVANE LEITZKE LEVANDOWSKI              7  2 60,1740
+  901JULIO CEZAR ALVES GORISCH               13  2 66,4465
+  908JANI ROBERTA MACHADO                     5  2 65,7642
+  909PATRICIA PRETTI SOUZA                   25  2 67,1358
+  913TANIA MARIA BOTELHO                     21  2 77,5127
+  914ADILCE PASQUALINA BERTRAM                8  2 66,5898
+  915MARLISE K. ZAPPELLINI                   13  2 68,4753
+  917EUNICE FEDER VEZARO                      2  2 62,7082
+  919ALCIONE HAFEMANN DE KREHNKE             17  2 62,0986
+  924ELIANE JANKE GUTKNECHT                   3  2 78,0540
+  925SALETE MARTINELLI OLIVEIRA              18  2 64,9520
+  927SALETE FRANZENER CASSOL                  9  2 65,7342
+  929MARCOS C. FISCHER                       19  2 60,2864
+  930JOSE ALVERI DOS SANTOS ZICK             18  2 64,4710
+  936MARCIA M. LENZ ERBS                     26  2 69,4183
+  942IRENE LINK                              19  2 67,1753
+  948CATIANE GARCIA SOUZA                    23  2 63,0826
+  951RENATE ROSE LINDNER                      0  2 70,4621
+  960MARCELA NARDELLI LICKFELD               23  2 67,9705
+  963ODETE W. RADDATZ                         4  2 73,0912
+  966MARCIA LORENA STEFFEN                   17  2 61,3880
+  975CHARLES FORMIGARI                       15  2 77,2396
+  976JOICE JUSSARA KNOPP SILVA               18  2 74,5563
+  977AUREA M. RIEGEL                         20  2 70,0706
+  980IVO STEDILE                             11  2 73,1299
+  986CRISTIANO LOURENCO DA ALFLEN             4  2 74,7049
+  989VALMIRA PADILHA                          4  2 61,6906
+  998JOSE ABEL GABRIELE                      11  2 69,5036
+ 1000ADELAIDE KREUZ DE HANSEN                 0  2 79,0894
+    8GISELE CRISTINA CIMA                    20  3  8,3300
+   12SONIA HELENA OTTO FERREIRA               6  3  9,5420
+   18MARIA INES PRADO                        14  3  9,2910
+   45USUARIO DE JARDUZIM                     28  3  9,7878
+   63SUELEN CRISTINE FODI                     1  3  9,2776
+   65ELIANA CASTRO DE CRUZ                    8  3  9,5985
+   74JEFFERSON PAULO DILSCHNEIDER             1  3  9,4181
+   78ALDENEIA PIECHARSKI                      5  3  8,4277
+   83KETLI LARISSA MACHADO                   24  3  8,6513
+   90CLODOALDO LOPES BASEGIO                 20  3  9,4827
+   98ELISETE DO CARMO NEVES                  21  3  9,4134
+  101ANGELITA LIMA ANDRUCHECHEN              11  3  9,1086
+  122MARCIO ALFEU TELES KOENIG               25  3  9,9170
+  131IRENE PEREIRA VIANA GOMES TAKANAGE      21  3  8,5668
+  132GERTRUDES CARVALHO FERNANDES            27  3  9,2334
+  138MARIA HELENA FOGGIATTO NASCIMENTO       25  3  8,7748
+  147ETIENE MARIA DA FLOR                    16  3  9,8267
+  162JANETE MARIA BRANDL                     20  3  9,7703
+  166ERONILDE PEDRI DOS PELLIS                8  3  8,6416
+  176JULIA DAIANE CIQUELA SOUZA              12  3  8,6178
+  180FERNANDO JOSE VIEIRA                     0  3  9,0128
+  233ROSANGELA EING FRANA                    20  3  9,9068
+  240CARLA VAZ CHAVES                        17  3  8,9553
+  242CARLOS ALBERTO SCHREINER                 4  3  9,2319
+  253EDENILTON SPIESS                         1  3  9,0691
+  264ROSEMERI WOSNIACK                       11  3  8,8265
+  266JOAO CARLOS DE SIMON VOLLES             25  3  8,1240
+  273CRISTIANI RECKZIEGEL                    12  3  9,4922
+  285EDUARDO DANIEL SILVA                    17  3  8,6886
+  294CLODOALDO WISNIEWSKI                    19  3  9,2794
+  300CLAUDIO SILVA                           28  3  9,7571
+  301SIRLEI DUWE PEITER                      28  3  9,8449
+  313CRISTIANO DINELLI A. DA PRADO            2  3  8,9118
+  320SIDNEI JOCHEM                           16  3  8,4891
+  341MARTINHA SILVA                          23  3  8,1284
+  368DENISE NICOCELLI HERMES                 13  3  9,4703
+  369CATIA CRISTIANE FURLAN                   0  3  9,6970
+  374RENATE VALCZAK FERREIRA                 18  3  8,3382
+  386ELIANE SANTOS DOS MAURIZENZ             10  3  9,1190
+  393OSNILDO GOMES DE PEREIRA                 1  3  8,8225
+  396CARLA GRASIELE KNOPP KREMPKE            17  3  8,1190
+  400SOELI PRAXEDES MACHADO                  19  3  9,4101
+  406CARLOS RODRIGO CAIO                      1  3  8,2456
+  408JULIANA KREUTZFELD                       2  3  9,9743
+  423NESTOR CAETANO DA BREMM                 26  3  9,9819
+  426ALEXANDRE COELHO                        13  3  9,2462
+  440EUZANE DE L. V. RUMPH                    0  3  8,9996
+  444JOISI DARLI DECKER                       8  3  9,9754
+  467MARLON ALISON SILVEIRA GONCALVES        28  3  8,5108
+  492JOSELIA APARECIDA GODOI DA RIVA         25  3  8,0295
+  502MARCELI TEREZINHA V. MOSER              24  3  8,9107
+  508SIUNARE PAVARIN POMMERENING             14  3  8,9267
+  538CLEONICE LOURENCO MARTINI               20  3  8,4707
+  545MARINEIDE GAZDA                          6  3  8,0395
+  551CLEITON ECCEL                            4  3  9,7724
+  555ROSELENE MICHALAK SCHNEIDER             18  3  8,9198
+  558SONIA KOSCIANSKI                        17  3  8,5107
+  559SANDRA KLUCK                             8  3  8,3856
+  573JULIA GRASIELA FAGUNDES DE VIEIRA        9  3  8,1472
+  605ABEL JUNKES                              7  3  8,9063
+  624CLEIDIANE ROSSI RUEDIGER                24  3  8,6189
+  625DAYVES AUGUSTO VIEIRA                    7  3  9,8669
+  639JOSIANE AVELINO HORNING                  0  3  8,3593
+  655NELSON URBAINSKI                         2  3  8,1815
+  657SONIA MARLI DOEGE                       28  3  8,5618
+  685JAQUELINE APARECIDA AUGUSTIN            20  3  8,3282
+  701ELAINE CRISTINA JAROCINSKI              10  3  8,2557
+  705DANIEL KNEIB HASSE                      14  3  9,0236
+  713CLEIDE DENISE KIRCHNER                  21  3  8,5677
+  723EVANILDE SOUZA                          14  3  8,7684
+  728ANA ZITA JACOBI                          4  3  9,7905
+  736CLODOALDO APARECIDO ZIMMERMANN          15  3  9,4655
+  761JOAO NUNES DA GAIO                      26  3  9,1150
+  798VERONICA KROENKE SOUZA                  25  3  8,7658
+  801ANILSE TISO POMMERENING                 19  3  9,1833
+  813MARINEIS STIPP TOREZANI                  6  3  9,1939
+  820ARION VICTOR STASSUN                    11  3  8,5246
+  824RUBIA EDNA GNEWUCH                      28  3  8,3397
+  825IRIA K RICHERDT                         15  3  8,8421
+  835JAIME CONZATTI                           5  3  8,0961
+  836GILMAR DIAS DE PRAWUCKI                  3  3  8,6277
+  853LUCINEIDE FLEMING KLITZKE                3  3  8,7606
+  868SANDRO GUIMARAES DEMARCHI               27  3  8,6397
+  933JANETE A. SCHENKEL                       7  3  9,0750
+  949JUCELIA DE SOUZA PAVANELLO               4  3  9,9138
+  956IVAN CHARLES JUNGTON                    13  3  9,0893
+  970IRIA MONTIBELLER BONA                    8  3  9,6376
+  971MERI HOWE FERNANDES                     24  3  8,6641
+  983MARILEIA TILLMANN                       11  3  8,2070
+  997MARCIA GREVEL DE REDIVO                 16  3  8,9350
+    5ANDREA MOREIRA LESCOWICZ                 9  3  9,6116
+   43IVANIA PAULINO DE MULLER                24  3  9,6789
+   46MAICKEL RODRIGO MONTEIRO                 7  3  8,9342
+   60PAULO RODRIGO GAZZOLA                   18  3  8,9572
+   64MARCIA RAMOS                             6  3  9,2221
+   69VANIA BELLAN DA SCHULTZ                  5  3  9,6303
+   80ROSA MONICA DE OLIVEIRA PEREIRA          8  3  9,3866
+  100ADEMIR ROBERTO LOCH                     21  3  8,1587
+  152ROMILDA VENTURI                         17  3  8,0671
+  179ROSENILDA RICARDO MONTEIRO              12  3  8,4941
+  192ELIANA APARECIDA DE B. TODT              6  3  8,2313
+  201RODRIGO FEILER                          10  3  8,9623
+  202ANA LUCIA EUCLIDES SANTOS               16  3  8,8644
+  214ROSINEI PATRICIA RODRIGUES              27  3  8,6965
+  234LUZIA SUDAN                             28  3  9,0079
+  257LUCIMARI MESQUITA                       26  3  9,5537
+  259ELIANE GENEVRA DALLMANN                 10  3  9,4335
+  260JOAO MARCELO DA S. SOUZA                 2  3  8,7961
+  269ALVERITA ERTHAL                          9  3  9,1026
+  279JOSIANE TISSI PISKE                     12  3  8,6955
+  293DINA EULALIA VAVASSORI ALVES            11  3  8,4754
+  328CRISTIANE TAGES DA SCOZ                 11  3  9,3370
+  339CLAUDETE SILVA                          12  3  9,4472
+  365JULIANA SCHERSVINSKI                    28  3  9,9442
+  383ISLA COSTA OLIVEIRA                     19  3  8,1275
+  424SONIA MARIA MENEZES MULLER               9  3  8,8296
+  436NELI NOLLI                              26  3  8,8326
+  445ADRIANA MARLO RIBEIRO LUIZ BEHLING      22  3  8,6828
+  451JOSEANI BARON                           23  3  9,2632
+  455NEIDI FERRARI                            3  3  9,9110
+  462MICHELLE DA SILVA EGER                   4  3  8,0736
+  463ROMEU DA SILVA MULLER                   17  3  8,0701
+  474IVANIR CRUZ                              1  3  8,9680
+  478ELI MARIA JEUZUR                        18  3  9,3057
+  489CLEONICE DOS SANTOS LOTERIO SILVA       11  3  9,7464
+  536ALIRIO OLIVEIRA                          2  3  8,3163
+  547RUBIA CAROLINE LORENZETTI MORSCH         1  3  9,4768
+  564LEOMAR DE SOUZA MICHELLUZZI             27  3  9,8439
+  565JOCELIA FRANA ALVES                      5  3  8,1318
+  572ELISABET CRISTINA ARNOLD DE FERRARI      0  3  9,5662
+  588ROSALINA HACK                            4  3  9,6292
+  591ROSELI CECILIA BEYER                     3  3  8,1651
+  599ADRIANA DA SANTOS                       25  3  8,0830
+  607VALDECIR VEGINI                         25  3  8,7927
+  627LUCELIA MORAES                          22  3  9,2203
+  629ROBERTO VICENZI                         19  3  8,4769
+  646FLORENTINA IARGAS ROSNIAK               11  3  8,7967
+  651DAIANA A. VETTERLEIN                    15  3  8,1382
+  669FABIANE LEONI                            2  3  9,2160
+  689JANAINA MANCHEN                          5  3  9,0436
+  699MARIA VANDERLEIA GOERCK                  5  3  9,8379
+  708MARLENE WEISE MAIDA                      4  3  8,6730
+  716JUSSARA TERESINHA SILVA                 20  3  9,2799
+  752ELOIDE MARLI PEZZATTO                   26  3  8,0740
+  764GIOVANI VOLZ                            22  3  8,1192
+  783CRISTIANE KISNER HEUPA                  11  3  8,4514
+  796SERGIO KOHLER                           17  3  9,5944
+  808MARIA SALETE DA S. A. LENZI             11  3  9,8020
+  821MAURO ZANDAVALLI                        24  3  8,5896
+  822IRMA WITKOSKI                           25  3  9,9001
+  827ROSITA HOLTZ                            20  3  9,0622
+  829SALETE ROSANE MALLMANN ALTINI           15  3  8,6618
+  832MAURELIO JOSE CANDIDO                    7  3  9,8291
+  840MARIO PEREIRA                            5  3  9,3029
+  843SILVANA DE L. R. PEREIRA                22  3  8,8302
+  856JANETE LICKMANN AQUINO                   6  3  8,6564
+  866MARTA G. DA R. V. DE EUCLIDES           21  3  8,4275
+  871CISLENE C. S. EGER                       7  3  8,7786
+  874MARIA FERNANDES                          5  3  8,6313
+  880ROSILEI FIDELES                         13  3  9,3767
+  899PAULINA MALINOWSKI CESCONETTO           24  3  9,4597
+  941ROSELI APARECIDA B. F. MOKWA             8  3  9,4574
+  967MARCIO ROBERTO KIRSCHEN                  0  3  9,2846
+  968DORVALINA PRETI DA MORAES               24  3  9,4876
+  987INGOMAR SANTOS                           7  3  9,2089
+  993MARCIO DE ASSIS BUSARELLO                9  3  9,6527
+   15IVONE STRAUB SILVA                      10  4 34,8475
+   16MARILENE FILIPP                          9  4 36,9849
+   29MARCILENE TERESINHA UTPADEL              5  4 39,5416
+   31LUCIANE ILARIO DIAS RICHERT             22  4 39,9667
+   33MARCIO LIONEI SOUZA                     15  4 32,7430
+   36ROSELAINE REGINA EGER DOS CUNHA          4  4 33,5415
+   40ELAINE REGINA WISNIEVSKI                 7  4 35,2449
+   73SOELI DA WAGENKNECHT                     0  4 33,9600
+   86ROSANE OLSKA                             7  4 35,6017
+   95ELIZETE MARIA BENJAMIM SCHNEIDER        11  4 35,5819
+  105EVALCI M INACIO HOEGEN                   2  4 35,3285
+  111LINDACIR WOJCIECHOWSKI SANTOS           11  4 38,4571
+  134SOLANGE PIERITZ                         25  4 34,9400
+  135IVANIA NEIDE SILVA                      11  4 34,6089
+  137LEILA DA SILVA                          21  4 33,9198
+  143NOELY DOMINGUES DE SOUZA MICHALACK      12  4 32,4673
+  161MARIA DOLORES SANTOS                     9  4 36,1483
+  163ALFONSO NEVES                            2  4 33,5336
+  171IDAZIMA CONCEICAO DOS TAMBOSI           10  4 36,3947
+  181ODAIR LIMA                               2  4 37,0186
+  185ALESSANDRO GALVAN                       19  4 38,9364
+  189RAQUEL CRISTINA HINCKEL                 15  4 36,0339
+  200BRUNILDA DERETTI                        28  4 33,6384
+  218SIRLEI SOUZA                            27  4 39,7415
+  222ROSANE CAETANO BRUGNAGO SCHLENERT       26  4 39,5676
+  231DANIELA STOCKER RAITER                  13  4 33,1803
+  236CLAUDIO ROBERTO CORDEIRO                23  4 39,7275
+  246CLEMENTE ROMAO                          17  4 36,1073
+  261ANA PAULA KOERBES                       13  4 38,6275
+  263MAIKE NAGEL                             15  4 32,3208
+  277ANIMERI ENGELMANN CORREA                 5  4 32,3694
+  303SANDRA DOS SANTOS COSTA                  3  4 39,5915
+  304KATIA ADRIANA SARTI POLASTRI            18  4 38,6266
+  312MURILLO ANTENOR VEGINI                  28  4 37,1654
+  315EDUARDO GONCALVES DOS FERNANDEZ         17  4 39,8060
+  318CESAR SOVATE NEVES DOS SILVA            24  4 37,7064
+  337GEOVANI GOES                             4  4 38,8378
+  358SOLANGE WEBER                           15  4 34,4236
+  359MARISA REGINA V. DE DUNKER              22  4 39,1329
+  361JOZI KUNZE                              28  4 39,2192
+  373EDUARDO DE ROZZA                         9  4 35,1954
+  379TEREZINHA APARECIDA DA FERREIRA         19  4 37,0633
+  399TEREZINHA DE RIETTER                    23  4 33,5043
+  450VALDECIR KENAUTH                        12  4 35,2249
+  452LINDOMAR SEBOLD                          9  4 34,5129
+  457CLEBER CARDIM                           18  4 37,6498
+  477RIDISON DA SILVA BODENMULLER            21  4 34,6825
+  490ELISANGELA CRISTINA DE STOLF             6  4 36,1322
+  499FELIPE DA GORGES                         2  4 39,4177
+  503MELITA TULLO                            16  4 39,5644
+  513MARIELA BERNARDINI                      20  4 38,0606
+  518JARLES ADRIANO SILVA                    17  4 33,9962
+  548VILMA PROCHNOW KOHLS                    24  4 39,0005
+  600SANDRA IARA ZIENER                       3  4 32,1657
+  603VALDEMAR ANTONIO SURDI                  17  4 32,0607
+  608CLARICE PAULA MAGGIONI                  23  4 37,0225
+  630CLAUDEMAR MESCH                          0  4 34,5035
+  635ILETI BUDENDORF KUPAS                   19  4 36,7384
+  641DENISE DEFANTE DE FILIPPI               14  4 36,9795
+  649MARCOS JANTSCH                          20  4 35,3516
+  652BERLA MARIA ANDREGHETONI                23  4 39,1063
+  654FABIO LEONARDO DA PASQUALI              28  4 34,2505
+  666ROSIMERI ENGELMANN MINATTI               3  4 32,5291
+  695IRACILDES FONTANIVE                      3  4 39,0891
+  706EDNA MARIA POSSAMAI                     22  4 38,7726
+  711GRASIELA C. DE A. RONCHI                24  4 33,3736
+  720CICERO MARQUARDT                         9  4 39,8400
+  727ANA MARIA PATERNOLLI KAMCHEN             5  4 36,6527
+  733DOLORES LUCIANA L. DE ALDROVANDI        11  4 38,4901
+  738MAURICIO MARTINS                         4  4 33,7029
+  745CRISTIAN TUMIN                          18  4 35,1774
+  749CLAUDIO MARCELO KARNOPP                 18  4 38,8450
+  765ALEX SANDRO DOS SCHUSTER                11  4 33,6135
+  774MARCIA WEISS SCHMIDT                     1  4 33,8601
+  782TEREZINHA KLEM DA KANZLER                3  4 38,0810
+  789ELISANGELA JESUS                        11  4 39,9116
+  812IVONETE SOUZA SLOMECKI                  10  4 32,5144
+  839VALTECIR WULF                            7  4 37,1035
+  859CLAUDETE INES WUDKE                     27  4 34,2009
+  881ATINIR ADOLAR BORBA                      0  4 36,5434
+  897ELFRIDA WELLER JESUS                     4  4 36,5262
+  906DEUNICE SCABURI                         13  4 34,2605
+  911MARLI VALLER                            21  4 37,8843
+  912NELI DOS SANTOS MULLER                  10  4 33,4364
+  934MARIA DO CARMOS S.DE JAROCZINSKI         3  4 34,4794
+  953MARCIA CRISTINA E. PISKE                20  4 34,7912
+  959SIDIA FRANCINE SILVA                    25  4 39,8933
+  962RENATI GIRARDI                          13  4 37,6230
+  965VEREDIANA SCHULZ                        23  4 38,0054
+  969NARA MARIA BROLINI                       1  4 37,9469
+  973MARLI GALCZINSKI                        22  4 34,1633
+  974IRACI WACKERHAGE TONI                    2  4 32,9390
+  984MARIZA NUNES                            26  4 35,1098
+  990CINTIA ECCEL FALBO                      22  4 32,2600
+  991JOSIANE MIRANDA                         26  4 36,9558
+  999JOSE HENRIQUE GUNTHER                   19  4 35,3783
+   30JUSSARA RAQUEL VOLPI                    11  4 39,6994
+   34NEUSA BOSCATO SANTOS                    26  4 35,1860
+   49MALGARIDA BASSO GUESSER                 11  4 37,4061
+   89GRAZIELA ZANON                          17  4 32,3701
+   97IVAN FREIRE                             27  4 34,3324
+  106SOLANGE MARIA ADAM                       8  4 37,6460
+  112SANDRO LADISLAU BORIES CHIODINI          3  4 35,2932
+  126CATIANE MOHR CASTRO                     25  4 33,7531
+  154ZENAIDE ADRIANE BORGONHA                 5  4 38,7320
+  174SHIRLEI BATISTA DOS SANTOS GEISSLER     21  4 39,9724
+  195ELEMAR COUTO                             1  4 34,4948
+  204SANDRA MARA CORREA                       2  4 33,6327
+  207PATRICIA APARECIDA ZAPELLA              11  4 34,1901
+  208CINTIA JANICE TIRONI                     5  4 33,4971
+  212NIHUANA ADAM                            22  4 33,0930
+  232MARCELO SCHWIRKOWSKY                    27  4 34,0938
+  237SILVANE DE FATIMA C.DE SCHMIDT          11  4 34,4376
+  243FERNANDA RIGON JAHN                     17  4 39,6461
+  250ISABEL FOGULARI SALES                   15  4 32,0256
+  251ANISIA GUTKNECHT MULLER                 16  4 34,5353
+  267SONIA DE SOUZA RECH                      7  4 38,1494
+  289DIONEI CASTAGNA                         21  4 35,7255
+  292SANDRA REGINA ALVES                      2  4 38,1941
+  305HELIZABETE WENGRATT DA SANTOS           22  4 38,5197
+  306MICHELE NIELSEN                         22  4 35,3944
+  340ADRIANA GRAMM                            8  4 32,0663
+  343JULIANA PARUCKER FRITSCH                17  4 33,5583
+  344LUCIMARA DOS SANTOS BARTEL               2  4 37,6722
+  345CINTIA DA SILVA MASSANEIRO              12  4 38,9402
+  350KATIA JANICE MARTINS CARVALHO           23  4 39,7288
+  362TATIANE SANTOS                          19  4 39,9004
+  376ROSALVA MARIA ANJOS                      7  4 36,5271
+  378LUZIA DE F. WAN-ZUIT ROCHA               1  4 34,9675
+  380VIVIANA DEFANTE SOUZA                   26  4 32,7724
+  398LUCIANA FIGUEIREDO DE OECHSLER          22  4 33,2722
+  401IVANILDE AP.MARTINI CORDEIRO DOS MACHADO27  4 38,7532
+  418ALEX SANDRO JOSE                        23  4 36,5993
+  419SIMONE APARECIDA MORAES                  6  4 37,9213
+  429JULIANA GONCALVES DE SIMETTE             1  4 34,5569
+  433SANDRA RAULINO                           9  4 35,6910
+  471MARCOS ROBERTO THOMSEN                  14  4 38,6923
+  473DEIVE DANIEL OLIVEIRA                   27  4 36,2274
+  485MARILDA DE SOUSA XAVIER                 13  4 32,8645
+  494SILMARA APARECIDA BARBOSA FILIPP        27  4 38,4656
+  497JOYCE GUSE KRAUSE                        0  4 35,8337
+  523ESTEVO MAAS                              6  4 38,9862
+  524ROSANE ANDRES OLIVEIRA                  18  4 36,0824
+  525ADRIANE GARCIA RAMOS                    18  4 33,7867
+  535CRISTIANE BAUMANN OLIVEIRA              25  4 33,7208
+  553VALDIR JOSE KREUTZFELD                  26  4 33,1875
+  560CRISTIANE DERETTI                        9  4 33,3354
+  568LUZIA RANDIG                            11  4 33,5844
+  575JOSEANE CAMPESTRINI                     19  4 36,9101
+  579DEUSIANE SOUSA S.DE SOARES               0  4 33,3078
+  598ROSANA KOCH                             20  4 36,9394
+  602MARCIO DE GONCALVES                     17  4 32,1587
+  604LUCIANO CANDIDO DO CORREA               18  4 38,7839
+  615MARCIO VEGINI                            6  4 32,5576
+  619SIRLEI APARECIDA SPEZIA                 11  4 35,5310
+  634MARCIA HELENA DA SILVA OLIVEIRA         13  4 36,1502
+  645VALERIO GESSER                          17  4 36,3205
+  664CLAUDIO SANTOS                          23  4 36,7321
+  665LINDACIR GOMES DOS KRISCHANSKI          15  4 36,1950
+  674IVONETE BARBOSA DOS CANTON              20  4 32,0074
+  704CATIA LENIR DE SIGNORELLI               20  4 34,4695
+  732MARLENE ROPELATO N. DA SANTOS           28  4 39,5358
+  742ALBINO SOEL LEMES DOS HEIMANN            8  4 34,5106
+  746RADAMES GAEDTKE                         25  4 34,3825
+  753SANDRO LUIS SCHEUER                     18  4 38,2437
+  766PAULO ROBERTO DOS BAUMANN                6  4 33,8003
+  773MARILENE POTTKER PAULUS                 18  4 36,5838
+  781CRISTIANO BRAATZ                         8  4 33,4943
+  788CLAUDILENE BERTOLDI                     11  4 33,5256
+  807IRENE RUSCH KUPAS                        9  4 32,9172
+  811TANIA KUCHNIER                          12  4 39,8761
+  815NEODIR STEFFEN                          24  4 39,3464
+  837ADOLA LODI                               4  4 32,0877
+  841KATIA STEINERT DELLING                   6  4 32,9385
+  847LIAMARA TAIS Z. BRAATZ                  22  4 39,6927
+  848MARIA SIMONI RANGHETTI                  14  4 39,4730
+  863MARCIA SUELI MALINSKI                   14  4 37,0828
+  877MARISETE BONETTI RINCAWESKY             21  4 32,3388
+  886MIRIAN RINCUS KOCH                      24  4 32,7806
+  892GISELE MANOEL                            4  4 39,4106
+  894GILSON KLITZKE                          26  4 39,7130
+  903ADEMILDO MARTINS                         3  4 37,2821
+  904GERSON SONI PACHECO                     14  4 38,9697
+  921ANDREIA VENSKE SCHELBAUER               26  4 38,5070
+  923MARCELO JOSE RUCKERT                    18  4 37,3209
+  945SIMONE FATIMA SCHEUER EUCLIDES           9  4 36,8967
+  955ELISABETH BAADE DA ADAM                 25  4 39,5886
+    1MARISE SASSE CAMPESTRINI                13  5 87,0882
+    3JOCI APARECIDA ELI JAROCZINSKI          28  5 95,7320
+    6NEUSA DOS SANTOS REBELATTO              11  5 98,5439
+    9EDINEIA GOMES SALLES DE EGER            28  5 97,1763
+   14ROSELI VIEIRA DOS SANTOS MORAIS         22  5 91,0169
+   19FABIANA RADDATZ CORREA                   9  5 87,1290
+   23DANIELA CRISTINA HAFEMANN               24  5 94,2979
+   25ELIZABETE CASTRO DA SCHULTZ             22  5 98,9664
+   28ALEX DE OLIVEIRA DRAEGER                11  5 94,0799
+   38LEOCADIA KAUDER MADER                   19  5 87,5047
+   81CRISTIANE RENATA MORAES                 22  5 98,5063
+   88ZILAMAR DE SANTANA SHMOLLER             12  5 86,0169
+  110SIDNEY EGGERS                            7  5 87,3620
+  116ADEMIR BRIGHENTI                         0  5 84,2057
+  125ROSELI RANGHETTI POLIDORO                8  5 92,3008
+  155LEONORA WOLF LIESENBERG                 16  5 97,3106
+  165RENATO SCHERER                          22  5 99,6706
+  173CLAUDEMIR FRANCA ROSKOWSKI               1  5 97,8854
+  175ELIANE MULLER                           15  5 97,5037
+  187SANDRA DE O. TARDEM FRANKEN              8  5 92,7166
+  197ELIANA CARLA PEREIRA                    17  5 97,2722
+  199ANTONIO CARLOS PEREIRA                  26  5 83,2932
+  221ADRIANA ANSELMO                         26  5 95,5875
+  238CLARICE APARECIDA RUYSAN                15  5 83,5801
+  270MARLI DE RAITZ                          17  5 90,1409
+  296ADELINO LOURENZETTI                     23  5 83,1766
+  308RAQUEL SANTOS                           27  5 86,3498
+  311RAQUEL LARA OKADA                       26  5 96,5305
+  314FRANCIANE TORQUATO                      23  5 94,9020
+  331LINDOMAR CASTILHO DE MAINKA             11  5 86,5268
+  332ANA AMERICA DEFANTE                     26  5 96,6053
+  355MATILDE FLORINDA ZELFELD                28  5 85,1592
+  375PAULO BERNARDO MELLO                    23  5 87,2173
+  377NAIR TEIXEIRA                            9  5 93,4665
+  384INACIO BUENO ZIEHLSDORFF                11  5 89,1717
+  391WALTER ANIBAL T. SANTOS                 25  5 84,4656
+  392TIAGO PELEGRINO DERETTI                  2  5 92,3994
+  413WAGNER DE SILVA                         19  5 89,0979
+  434JOICE TEREZINHA HANG                     1  5 97,0748
+  441LUCIANA MARA DERETTI                     8  5 98,9280
+  458LUCINEIA DA SILVEIRA                    18  5 98,5183
+  459SOLANGE APARECIDA WINTRICH KOPP         21  5 86,9738
+  464ROSEMERI SERAFIM RANGHETTI              19  5 88,9879
+  488ZENILDE DE SOUZA CIEPLY                  8  5 95,8671
+  496JOSIANE APARECIDA P HEIDECKE            27  5 89,7106
+  505CLAUDETE MEZALIRA BRAIER                23  5 92,5198
+  530VANIA LIA GUNZ SCHLENDER                25  5 98,6259
+  541JUCELIA SCHRAGLE CAMILO                  3  5 96,9268
+  544HILDA KRUTZSCH                          10  5 89,9669
+  552GERSON LUIS DE LARGURA                  28  5 91,6470
+  563KATIA SCHMITZ ALMEIDA                   22  5 92,8657
+  581NOELI VIEBRANTZ ECCEL                   17  5 92,5140
+  585GIRLENE SCHRANK                          1  5 85,9863
+  586ILZELORI PIRES                           8  5 87,1048
+  596LECIMAR DE SOUZA CANI                   10  5 85,6880
+  616MARCIA HACK SLOMECKI                     5  5 83,3777
+  622ANTONIO GILMAR DECKER                   20  5 99,4060
+  653MARIA LUCIA B. ORIBKA                   11  5 93,4142
+  670JUSSARA PRADO                            9  5 90,9516
+  691VANESSA ALDROVANDI EGER                 24  5 87,1084
+  692EDSON CARLOS MATOS                      12  5 96,3655
+  750SIMONE FERNANDES                         7  5 87,5904
+  762GILBERTO STENGER                         4  5 83,0731
+  777SANDRA TEREZINHA PRADO                  22  5 99,2244
+  778BEATRIZ MOREIRA OLIVEIRA                 7  5 83,6885
+  787DENISE LIPINSKI SPRUNG                  25  5 90,7268
+  793ADELIA MELO                              2  5 99,3268
+  802RICARDO RICHTER                         16  5 92,2610
+  803LENISIA MADER                            2  5 99,8487
+  806IMERI TEREZINHA MENESTRINA               8  5 97,4258
+  810LUCIANA ULLER KEIL                      22  5 82,4702
+  819ADELINA LODI                            15  5 86,5033
+  826CASSIA CILENE BEYER FREITAS              2  5 97,1498
+  844ANDREIA CANDIDO D. DREWS                13  5 89,2815
+  845YARA CRISTINA SCHEPLE SOUZA             27  5 84,4886
+  850ROSALI KASMIRSKI WERNER                 13  5 94,9935
+  854LUCIANA FLEMING JOANELA                 23  5 83,0463
+  864VERONICA POLIDORO KIZEMA                21  5 86,5540
+  884JULIANA RANGHETTI                        4  5 86,1171
+  893ELIANE CRISTINA V. BENTO                 3  5 95,9887
+  917EUNICE FEDER VEZARO                      2  5 87,8791
+  925SALETE MARTINELLI OLIVEIRA              18  5 97,0755
+  930JOSE ALVERI DOS SANTOS ZICK             18  5 92,3456
+  936MARCIA M. LENZ ERBS                     26  5 98,0682
+  942IRENE LINK                              19  5 99,6480
+  948CATIANE GARCIA SOUZA                    23  5 90,7218
+  960MARCELA NARDELLI LICKFELD               23  5 80,1004
+  966MARCIA LORENA STEFFEN                   17  5 91,4088
+  980IVO STEDILE                             11  5 98,7952
+    2MARLETE MATIAS                           9  6364,3779
+    7DANIELE WINTER                          24  6377,7008
+   13EUGELCIO STENGER                         3  6321,0322
+   52ELIANE APARECIDA DA RISSO                9  6353,4496
+   59ROSANA MARIA PINTARELLI SILVA           25  6388,6312
+   66PATRICIA KLOSTER                         8  6354,5914
+   70DARCI WEBER                              3  6323,8127
+   71CRISTIANE OLIVEIRA KANIS                21  6354,2021
+   72MARIA JAQUELINE PIETRUCHALEK BIEGING    21  6371,9560
+   92ROSEMEIRE NASCIMENTO                     7  6346,0977
+   93ZENILDE ROESEL                          19  6389,3458
+   94LUIS ACACIO KIENEN                       4  6320,1939
+   96ADIR REITER                              8  6392,4323
+  102FLAVIO APARECIDO DO TARACHUCKY           8  6350,7151
+  103ASTA LIDIA BITENCOURT                   28  6396,1571
+  118MAURICI VALERIO SAFANELLI                7  6378,3717
+  120MARLISE QUEVEDO                          9  6335,0592
+  128ELOIR JOSE LEITOLD                       1  6361,5480
+  129ADELMO SILVEIRA DE ZAPELINI             16  6366,1715
+  133LIZETE KNOCH                            20  6335,7508
+  140ISONEIA LAFFIN RIBEIRO                  27  6344,5182
+  141GERALDO HERHARDT                         8  6321,0220
+  149JOSE AUGUSTO DA GINOW                   16  6325,6493
+  164AUREA EICHTAD HEIDEMANN                  7  6383,3643
+  169MARLI MARIA BRUCH                        6  6341,1652
+  188ANDRESA FERREIRA M. DALLA COELHO        27  6371,6905
+  203NAIMI KRUGER ANVERZE                     2  6397,6510
+  206ADRIANA PEREIRA DOS LIMA                 5  6350,4731
+  215CLAUDETE AP.O.FARIAS DA MULLER           8  6390,9494
+  216ANA MARIA DE SOUZA G. DE MASSANEIRO     22  6364,0141
+  226JULIO CESAR CHEUCHUK                     2  6357,4402
+  227JUDITE SILVA                            12  6357,6010
+  228ALCIRENE GRANDES DE PAULA               24  6331,6118
+  248KLEBER LUIS ALCARAZ                     25  6347,8990
+  249ELENICE M. H. SURDI                     16  6321,2457
+  252IDA MARIA SPIESS                         0  6343,1162
+  256VIVIANE PEZZATTI SESMA                   0  6338,1801
+  262MARLISE PRETTI                          28  6357,9644
+  272QUETINA ANDREIA BERNS                   28  6335,2394
+  275ANDREIA POFFO                           11  6349,1219
+  295CARLOS F. VAZ DOS SILVA                 22  6338,9363
+  309JOAO MARTINHO SILVA                      3  6342,1371
+  310ALISSON FRANCO DA MATHES                 5  6386,9583
+  333MORGANA POVOAS                          28  6337,0086
+  334IVOIR SERAPIAO OKADA                     5  6390,9219
+  335NEUDIR DE MULLER                         7  6348,5549
+  354NORMA GRACIELA ZOCCATELLI                1  6346,1934
+  357SIMONE CZUIKA MAINARDES                  2  6348,4249
+  371MARISE BOLDUAN KIEDIS                    9  6336,2202
+  402GESIELI GESSNER                          7  6334,3180
+  414SIDNEI PEREIRA                          25  6369,9764
+  430JANICE SCHMULLER SANTOS                  3  6387,9867
+  442CESAR GILMAR COELHO                     22  6371,3648
+  447MARILENE M. PICCOLI                     18  6348,6045
+  449JANETE MOKWA                             3  6382,8766
+  453MILENE CRISTINE PEDRI PAULI             14  6385,4319
+  456OSMAR KOSLOPP                           10  6330,5690
+  468EDSON VEGINI                            15  6328,6325
+  483ELIANE COSMO                             2  6357,2166
+  484ALCIONEI SIMOES                         11  6354,4167
+  509CLADIS SONIA EHLERT FRANCO               9  6338,5337
+  515JORGE LUIZ SILVA                         0  6338,8721
+  517MARILSE SCHULZ                           9  6346,8362
+  520JANE MARIA SACHT                         2  6365,8191
+  537ELIZA GEANE SANTOS                      28  6372,8364
+  561MARIA BERENICE ODWAZNY MACHADO           4  6338,3170
+  566VANESSA SIQUEIRA                         1  6373,8610
+  569IRACEMA INES DA SILVA AUERHAHN          16  6336,0570
+  577MARLETE NEITSCH CARVALHO                22  6393,8700
+  589ZENAIDE MARISA DE O. SILVA               9  6323,4783
+  592MARISETE CATARINA GOES R DE TOFFOL      23  6322,1293
+  594ODAIR SIDINEI ROSARIO                    1  6356,9938
+  601CRISTIANE WENHOLZ                       15  6391,2832
+  606LUIS CARLOS RANGHETTI                    3  6361,0587
+  633KLAUS FENRICH                           21  6377,3704
+  638IVANDRO KRISCHANSKI                     19  6379,9412
+  640ROBERTO LIMA                            12  6347,0495
+  642CATIA M. DE SOUZA BERTOLI                9  6376,6508
+  656JUCEMARE AP SASSE DOEGER                 5  6375,4661
+  662INGRIDT STADLER                          2  6389,0441
+  667ROSSIANE CRISTINA DA OSOVSKI             0  6390,7160
+  672NARA REGINA KUMMETZ DA GADOTTI           5  6367,7734
+  677CELI ADRIANA GIRALDI QUOST               4  6399,4923
+  678SUELI ZILS CORREA DE LEWIN               0  6378,8494
+  679DAIANE CAMILA JUNKES                     6  6387,0541
+  688MARCELO CORREIA                         23  6378,0931
+  697TAGIANE TAJANARA POTER                   7  6370,5885
+  700CONCEICAO APARECIDA DA VIEIRA            8  6337,4272
+  712VERA APARECIDA RUSTICK                  18  6355,3997
+  725NEIVA DE FATIMA FORTES                   6  6378,8211
+  730SIMONE REGINA W PINHEIRO                28  6392,3543
+  741ALAN RODRIGO LOURENCO DA LIMAS          17  6363,2530
+  747ALDENIR BALTAZAR DA MATHIAS              0  6368,7336
+  760LUIS HENRIQUE DUARTE                    18  6371,2899
+  763DEBORA LOURENZETTI                       9  6340,0446
+  775RODRIGO DALPRA                          15  6346,7505
+  784DEBORA DE FATIMA PONATH                 28  6397,0130
+  785VILMA REGINA MAIDA STAINZACK             9  6338,6600
+  786MARCIA SOLANGE K. LANGE                 12  6368,9106
+  790LUCELENE PENKE                           0  6324,6450
+  797SILVANA JUNKES                          10  6389,3234
+  823IRACEMA KATCHAROWSKI                    27  6398,1983
+  833JEAN CARLO SAKAYA                        7  6372,2894
+  849CLAUDINEIA RIEGEL FRANCENER             15  6389,2450
+  857MARIA E. Z. SAVULSKI                     1  6377,9158
+  861MARCIA IRIANE MARTINS                   12  6389,3299
+  883LUCIANE WOLF GETNERSKI                  15  6335,8007
+  885SANDRA R. K. WINTER                      6  6397,4401
+  888SUZIMARA DOS SANTOS LUCIANO              5  6394,4936
+  889SILVANA A. CAGNINI SANTHIAGO             4  6393,7350
+  890ROGERIO DANIEL                          17  6382,9282
+  895VALDETE GAZZOLA                          3  6331,6464
+  900SILVANE LEITZKE LEVANDOWSKI              7  6396,5787
+  901JULIO CEZAR ALVES GORISCH               13  6360,8265
+  908JANI ROBERTA MACHADO                     5  6330,1473
+  913TANIA MARIA BOTELHO                     21  6358,7292
+  914ADILCE PASQUALINA BERTRAM                8  6380,9979
+  915MARLISE K. ZAPPELLINI                   13  6371,1328
+  919ALCIONE HAFEMANN DE KREHNKE             17  6382,4307
+  924ELIANE JANKE GUTKNECHT                   3  6339,3115
+  927SALETE FRANZENER CASSOL                  9  6323,6611
+  951RENATE ROSE LINDNER                      0  6363,7444
+  976JOICE JUSSARA KNOPP SILVA               18  6373,4828
+   10IRENE CLARO DA SOUZA                     1  7  6,6320
+   21IEDA MULLER                              1  7  6,8107
+   32TEREZINHA OLIVEIRA                      22  7  6,4060
+   39MARLIZE GRUBER                           5  7  6,3112
+   53GISELE PEREIRA DE HOLDORF               24  7  6,6734
+   62GILBERTO LUIZ GALLIANI                  14  7  5,6463
+   75MARIA NADIMA KREMER MARTENDAL           23  7  5,3997
+   76RONERSON LEANDRO DE OLIVEIRA PERSCH      2  7  6,2135
+   79ROZICREIA PEIXOTO                       18  7  5,3727
+   85HAIDE VENSKE NOGUEIRA                    2  7  5,4747
+  119ANILDA BONATTI WENDT                     6  7  5,0172
+  168IVONE BAPTISTELLA                        2  7  5,6876
+  186FABRICIO FABIANO DE MOTTA               14  7  6,9671
+  194AURILEDE SABINO DE KMIEC                 2  7  6,9566
+  210KATIA LIEBERT                            2  7  5,1258
+  220ELIANE RADETZKI BRAIER                  18  7  6,8125
+  229MARISA MABA                             26  7  6,8940
+  235EDSON HERCULANO MELO                     8  7  6,3107
+  244MARLI T. HANS DE BRUCH                   3  7  6,8891
+  247ILDOMAR WACKERHAGE                      28  7  6,7190
+  258INARA JANICE I. SILVA                   21  7  5,9567
+  271CLERIA BUSS PELLIS                       6  7  6,2708
+  299ELIZANDRA ZAMBONETI                     12  7  5,3159
+  307ROSMARA BERTANHA                        23  7  5,1611
+  325FLAVIA CRISTINA DUBUS MORAES             4  7  6,0425
+  348JULIANE CLARICE COLACO                  21  7  6,4521
+  360KATIANE DE OLIVEIRA BARROS               0  7  5,5875
+  382ADOLIRIA VIEIRA                         26  7  6,5219
+  395IVAN COSTA FERNANDES                     3  7  6,5655
+  403CECILIA FATIMA DA OLIVEIRA              27  7  6,9791
+  404ROSANA ADRIANO                          21  7  6,3849
+  409ADRIANA ALVES PAES STREHL                4  7  5,9991
+  410ANA BORBA                                2  7  6,9866
+  411ROSELETE JAKOBOWSKI                     24  7  6,8078
+  428ADRIANA SANTOS DE SAO PORATH            14  7  5,5084
+  432JOSE ADRIEL FERREIRA                    24  7  6,5620
+  448ADRIANA DE LIMA CRUZ                    10  7  5,7062
+  461RICARDO JOSE DO ZICK                    19  7  6,3186
+  465IVETE DE FATIMA BORGONHA                17  7  6,5719
+  479LUCIA ARENT                              4  7  6,7992
+  487MARCELO BARBI                           18  7  6,4187
+  491ROSA PADILHA DA SILVA NOGUEIRA          28  7  5,3442
+  514SANDRIANA LUCIA JOCHEM                   6  7  6,9042
+  519VIVINA DA SILVA KOPSCH                  17  7  6,2384
+  543INES KRONE MARTINS                       3  7  6,6909
+  546BREGITTE MARY J. SILVA                   4  7  5,3057
+  556MARILEIA DA MARTINS                      3  7  6,0810
+  567EUNICE T. MUELLER BECKER                18  7  6,1522
+  571CLEUDINEIA SANTOS                       10  7  6,3948
+  578CLEYTON ANDERSON PETRY                  28  7  5,8760
+  582SONIA LIMA                               4  7  6,6443
+  617GESIANI KLEMANN                         26  7  6,2147
+  621KATIANE DE PAWLAK                        3  7  6,2607
+  623CRISTINA DA SILVA BLASIUS               15  7  5,2619
+  626LAURA COELHO TECILLA                    19  7  6,6993
+  632MARLISE EHLERT                          28  7  5,6278
+  644SOELI LUZIA DE SILVA                    15  7  6,9776
+  648MARLETE KEISER                           6  7  6,5219
+  650CRISTIANE BELARMINO ADAM                 0  7  6,7864
+  659CLARICE JUNCKES KRAMBECK                27  7  5,4697
+  675MARILIA SIEWES                           3  7  5,4263
+  696SABRINA FELIPE                           4  7  6,8368
+  703VANDERLEA SIMON                          1  7  6,2152
+  709CLAUDIA POHL OLIVEIRA                    3  7  6,1323
+  719ROSELI DE ENKE                           9  7  5,8540
+  734EDELTRAUD VOIGT WISNIESKI               18  7  5,3734
+  756EDIR WESSLER SANTOS                     10  7  5,3906
+  758NEIVA BOSING KNEUBUHLER                  7  7  6,3066
+  759MARILU ROBERTI                          12  7  5,9701
+  768FABIANE VICENTIN                        17  7  6,2484
+  779ADELINA BERTHOLDI GUIMARAES             23  7  5,9269
+  780BEATRIZ WILBERT MORAIS                  17  7  6,1606
+  794JULIANE MARIA LEITHOLD SILVA            25  7  6,8226
+  818MARUSA GIOVANA OLIVEIRA                  6  7  5,7547
+  830ROSANA DE LUCA CISZ                      6  7  5,1506
+  842SONIA OECHSLER MOSER                    22  7  6,3498
+  855OSMARINA DE ECCEL                       11  7  6,7780
+  869EDELTRAUD ZELFELD FELTRIN               16  7  6,2923
+  873CLENILSON LUIS SILVA                     3  7  6,7537
+  882NERI PASCOAL STOLF                      24  7  6,2512
+  910ADELCIO JOAO MACHADO                     1  7  5,1563
+  920MARIA LUIZA BACK LEVANDOWSKI            24  7  5,8785
+  928CLEDER WALZ                              4  7  6,7863
+  937TEREZINHA DE F. DE O. GUNTHER           20  7  6,9965
+  940RUTH DAMARIS MARIA PEREIRA               6  7  6,3542
+  947JEAN CARLOS MOMM                        28  7  6,3388
+  957GISELI FATIMA GAEDKE                    15  7  5,9881
+  961LUCIANE VELOSO KOBALL                    8  7  5,6200
+    1MARISE SASSE CAMPESTRINI                13  7  5,3500
+    3JOCI APARECIDA ELI JAROCZINSKI          28  7  6,3685
+    6NEUSA DOS SANTOS REBELATTO              11  7  5,2238
+    9EDINEIA GOMES SALLES DE EGER            28  7  6,6052
+   14ROSELI VIEIRA DOS SANTOS MORAIS         22  7  5,9687
+   19FABIANA RADDATZ CORREA                   9  7  5,7124
+   23DANIELA CRISTINA HAFEMANN               24  7  6,4608
+   25ELIZABETE CASTRO DA SCHULTZ             22  7  5,0922
+   28ALEX DE OLIVEIRA DRAEGER                11  7  6,2637
+   38LEOCADIA KAUDER MADER                   19  7  5,4570
+   81CRISTIANE RENATA MORAES                 22  7  6,1170
+   88ZILAMAR DE SANTANA SHMOLLER             12  7  5,3392
+  110SIDNEY EGGERS                            7  7  6,4469
+  116ADEMIR BRIGHENTI                         0  7  6,1711
+  125ROSELI RANGHETTI POLIDORO                8  7  6,9018
+  155LEONORA WOLF LIESENBERG                 16  7  6,1621
+  165RENATO SCHERER                          22  7  6,5134
+  173CLAUDEMIR FRANCA ROSKOWSKI               1  7  5,6974
+  175ELIANE MULLER                           15  7  5,2255
+  187SANDRA DE O. TARDEM FRANKEN              8  7  5,5970
+  197ELIANA CARLA PEREIRA                    17  7  5,4870
+  199ANTONIO CARLOS PEREIRA                  26  7  5,7063
+  221ADRIANA ANSELMO                         26  7  5,5343
+  238CLARICE APARECIDA RUYSAN                15  7  5,7738
+  270MARLI DE RAITZ                          17  7  5,0771
+  296ADELINO LOURENZETTI                     23  7  6,8848
+  308RAQUEL SANTOS                           27  7  5,8583
+  311RAQUEL LARA OKADA                       26  7  5,4873
+  314FRANCIANE TORQUATO                      23  7  5,1476
+  331LINDOMAR CASTILHO DE MAINKA             11  7  6,7042
+  332ANA AMERICA DEFANTE                     26  7  5,6223
+  355MATILDE FLORINDA ZELFELD                28  7  5,6859
+  375PAULO BERNARDO MELLO                    23  7  6,4667
+  377NAIR TEIXEIRA                            9  7  6,1653
+  384INACIO BUENO ZIEHLSDORFF                11  7  6,8502
+  391WALTER ANIBAL T. SANTOS                 25  7  6,0743
+  392TIAGO PELEGRINO DERETTI                  2  7  6,7749
+  413WAGNER DE SILVA                         19  7  5,8372
+  434JOICE TEREZINHA HANG                     1  7  6,9830
+  441LUCIANA MARA DERETTI                     8  7  5,1776
+  458LUCINEIA DA SILVEIRA                    18  7  6,0677
+  459SOLANGE APARECIDA WINTRICH KOPP         21  7  6,2586
+  464ROSEMERI SERAFIM RANGHETTI              19  7  6,8301
+  488ZENILDE DE SOUZA CIEPLY                  8  7  5,8063
+  496JOSIANE APARECIDA P HEIDECKE            27  7  6,9540
+  505CLAUDETE MEZALIRA BRAIER                23  7  5,0391
+  530VANIA LIA GUNZ SCHLENDER                25  7  6,9685
+  541JUCELIA SCHRAGLE CAMILO                  3  7  5,7895
+  544HILDA KRUTZSCH                          10  7  5,7605
+  552GERSON LUIS DE LARGURA                  28  7  6,5158
+  563KATIA SCHMITZ ALMEIDA                   22  7  6,4885
+  581NOELI VIEBRANTZ ECCEL                   17  7  5,6057
+  585GIRLENE SCHRANK                          1  7  5,0631
+  586ILZELORI PIRES                           8  7  5,4441
+  596LECIMAR DE SOUZA CANI                   10  7  6,3635
+  616MARCIA HACK SLOMECKI                     5  7  6,9567
+  622ANTONIO GILMAR DECKER                   20  7  6,4228
+  653MARIA LUCIA B. ORIBKA                   11  7  5,5337
+  670JUSSARA PRADO                            9  7  6,3376
+  691VANESSA ALDROVANDI EGER                 24  7  6,3854
+  692EDSON CARLOS MATOS                      12  7  6,6274
+  750SIMONE FERNANDES                         7  7  6,0728
+  762GILBERTO STENGER                         4  7  5,6923
+  777SANDRA TEREZINHA PRADO                  22  7  6,5444
+  778BEATRIZ MOREIRA OLIVEIRA                 7  7  6,9718
+  787DENISE LIPINSKI SPRUNG                  25  7  5,6691
+  793ADELIA MELO                              2  7  6,1326
+  802RICARDO RICHTER                         16  7  6,7100
+  803LENISIA MADER                            2  7  6,8852
+  806IMERI TEREZINHA MENESTRINA               8  7  6,8876
+  810LUCIANA ULLER KEIL                      22  7  6,7190
+  819ADELINA LODI                            15  7  6,9026
+  826CASSIA CILENE BEYER FREITAS              2  7  5,1251
+  844ANDREIA CANDIDO D. DREWS                13  7  5,0420
+  845YARA CRISTINA SCHEPLE SOUZA             27  7  5,5814
+  850ROSALI KASMIRSKI WERNER                 13  7  6,6614
+  854LUCIANA FLEMING JOANELA                 23  7  6,3100
+  864VERONICA POLIDORO KIZEMA                21  7  5,5304
+  884JULIANA RANGHETTI                        4  7  6,8598
+  893ELIANE CRISTINA V. BENTO                 3  7  5,9009
+  917EUNICE FEDER VEZARO                      2  7  5,5137
+  925SALETE MARTINELLI OLIVEIRA              18  7  5,1643
+  930JOSE ALVERI DOS SANTOS ZICK             18  7  6,8105
+  936MARCIA M. LENZ ERBS                     26  7  6,9439
+  942IRENE LINK                              19  7  5,2861
+  948CATIANE GARCIA SOUZA                    23  7  5,3984
+  960MARCELA NARDELLI LICKFELD               23  7  5,0364
+  966MARCIA LORENA STEFFEN                   17  7  5,5927
+  980IVO STEDILE                             11  7  6,3635
+   24JOSIANE F. DA SILVA MUZIOL               8  8 14,0886
+   35SIMONE DANIELA SCHWEITZER                8  8 12,8549
+   44VENDA AO CONSUMIDOR SOUZA               14  8 14,1772
+   50LIRIA APARECIDA KOMGENSKI                0  8 16,1824
+   54DANILO ALVES DA FERNANDES               28  8 16,5914
+   58VERIDIANA DE FATIMA MACHADO DE SILVA    21  8 15,3926
+   67ERACI VEIGA                             13  8 16,3889
+   91SALETE QUEIROZ DE CAMPOS ROCHA          26  8 13,3821
+  109ANGELA CRISTINA REDIVO                  17  8 13,1518
+  130MARA KUSZKOWSKI                         11  8 16,9543
+  145BENTA CRISTINA DA KROIN                 10  8 15,8158
+  148ANDREA SIMONE STUY                       4  8 16,5403
+  151JULIANA DA FRANCENER                     5  8 12,7956
+  213CRISTIANE SENA                           9  8 14,2457
+  219MARA BARNABE DOS MACHADO                15  8 16,4624
+  230SUZANA MUNDT                            26  8 13,5855
+  274ELIANE KUPPAS                            6  8 12,3706
+  281KATIA ELIANE STEIN ANDRADE              23  8 15,1356
+  283LUCIANO PEDRO GOBBI                     24  8 15,1931
+  284ISOLETE MARIA WITTKOWSKI DERETTI         5  8 14,7779
+  290MARINEIDE ZAPELLA                       10  8 12,9183
+  302SUSANA CHAVES BORGES                    24  8 14,0596
+  316EDEGAR ZANELLA                          11  8 12,0389
+  317ANDERSON CLEITON MILNITZ                12  8 16,5545
+  322GILMAR SERGIO PORTES                    18  8 16,0540
+  323JONAS ANDRE VIEIRA DO VOELZ              2  8 16,3405
+  324WLADIMAR GIOVANILDO TEIXEIRA             1  8 15,3516
+  326SIDINEI JOSE NONNEMMACHER               28  8 12,8155
+  329KARIN EVELISE DUARTE                    11  8 16,6317
+  353ROSANE BRUNS                             0  8 14,5138
+  366MELITA LADISLAU                         11  8 16,7337
+  390SANDRA REGINA DE NUNES                   8  8 15,8298
+  394RUDINEI SILVA                           12  8 13,3802
+  438EMERSON CLEITON SILVA                   19  8 12,3852
+  460ELIANA CRISTINA RIBEIRO HERPICH          7  8 12,4825
+  493NILDA CASAS                              6  8 15,3736
+  495SOLANGE DE SONIA SOUZA                  11  8 14,6603
+  510CRISTIANE TANCON RINCOS                 14  8 15,0000
+  527MARIZE ZEMIANI                          21  8 14,4927
+  539VANUZA A. DE ANDRADE ANACLETO           22  8 13,8539
+  554JOICE EVANIR LIMA                       27  8 16,0196
+  557EVERLI MARIA SALV?                       8  8 13,1606
+  609ELENIR PASCOA SPRUNG VAZ DOS A.GUIMARAES17  8 15,8351
+  661MARISTELA L. TOMIO                      28  8 14,3938
+  673SANDRA T. DE A. DE CONZATTI             16  8 14,9681
+  682GIOVANI PRAWUCKI MORETTI                17  8 15,2752
+  690ANDREZA TERNES CUNHA SILVA               7  8 12,1514
+  702KIMAIR DA SILVA GONCALVES               25  8 16,7576
+  714JOSIANE PETRY STOLF                     10  8 16,0186
+  715IVONE HORN ROCHA                        23  8 15,8522
+  717CATIA FRANCENER                         26  8 12,9076
+  726SIRLEI T. KRAUSE DA SANT`ANA            17  8 15,4970
+  740MARA DIEL                               28  8 16,7880
+  757BERNADETE SILVA                         12  8 12,8940
+  772ROSALIA KUSTER ANTON                    21  8 12,6818
+  792SCHEILA SILVANE WALZ KRICHANSKI          1  8 14,8826
+  799MARLI BUNESE                            18  8 15,5347
+  809ROSA ZANLUCA LAUBE                       1  8 13,3791
+  834CHARLES SCHREDER                         8  8 15,6664
+  865MARLI KIECKHOEFEL FRANCOS               13  8 13,3302
+  879RITA APARECIDA WILBERT                   5  8 13,2246
+  896KARINE BLEICH NICOCELLI                 21  8 12,7878
+  902ADRIANA DE CAMPOS ALMEIDA                0  8 15,0174
+  907CLOVES PEREIRA DE RONCHI                17  8 12,7944
+  922JANETE BONETTI TRIBESS                   3  8 13,0336
+  931ROSINEIA SETTER JUNGTO                   6  8 14,9010
+  932FABIANE MURARA BOLDUANN                  9  8 13,6954
+  939IVONE PAUST                             12  8 16,3293
+  952JANE MARIA WODTKE                       13  8 13,1805
+  978LOIDA DE QUADROS RICHARDT               23  8 16,8980
+  981AZELIA MACHADO PEREIRA KEUNECKE          2  8 12,2337
+  982TEREZINHA GASDA GRUETZMACHER             9  8 14,4120
+  988DILENE SOUZA                            24  8 16,0752
+  992ANEMERI SCHWARZ SANTOS                  14  8 16,6665
+    2MARLETE MATIAS                           9  8 13,0865
+    7DANIELE WINTER                          24  8 14,5533
+   13EUGELCIO STENGER                         3  8 16,1193
+   52ELIANE APARECIDA DA RISSO                9  8 13,8188
+   59ROSANA MARIA PINTARELLI SILVA           25  8 12,3657
+   66PATRICIA KLOSTER                         8  8 15,4808
+   70DARCI WEBER                              3  8 12,2643
+   71CRISTIANE OLIVEIRA KANIS                21  8 16,4790
+   72MARIA JAQUELINE PIETRUCHALEK BIEGING    21  8 13,2898
+   92ROSEMEIRE NASCIMENTO                     7  8 13,6883
+   93ZENILDE ROESEL                          19  8 13,0513
+   94LUIS ACACIO KIENEN                       4  8 16,9484
+   96ADIR REITER                              8  8 12,5589
+  102FLAVIO APARECIDO DO TARACHUCKY           8  8 14,8991
+  103ASTA LIDIA BITENCOURT                   28  8 16,5972
+  118MAURICI VALERIO SAFANELLI                7  8 15,7334
+  120MARLISE QUEVEDO                          9  8 14,4464
+  128ELOIR JOSE LEITOLD                       1  8 15,7908
+  129ADELMO SILVEIRA DE ZAPELINI             16  8 14,3592
+  133LIZETE KNOCH                            20  8 16,9888
+  140ISONEIA LAFFIN RIBEIRO                  27  8 14,2275
+  141GERALDO HERHARDT                         8  8 16,7135
+  149JOSE AUGUSTO DA GINOW                   16  8 15,5537
+  164AUREA EICHTAD HEIDEMANN                  7  8 12,2993
+  169MARLI MARIA BRUCH                        6  8 13,7093
+  188ANDRESA FERREIRA M. DALLA COELHO        27  8 16,6422
+  203NAIMI KRUGER ANVERZE                     2  8 12,4704
+  206ADRIANA PEREIRA DOS LIMA                 5  8 14,2455
+  215CLAUDETE AP.O.FARIAS DA MULLER           8  8 12,5801
+  216ANA MARIA DE SOUZA G. DE MASSANEIRO     22  8 12,5279
+  226JULIO CESAR CHEUCHUK                     2  8 15,2472
+  227JUDITE SILVA                            12  8 14,6089
+  228ALCIRENE GRANDES DE PAULA               24  8 12,1942
+  248KLEBER LUIS ALCARAZ                     25  8 12,3984
+  249ELENICE M. H. SURDI                     16  8 12,8232
+  252IDA MARIA SPIESS                         0  8 15,7334
+  256VIVIANE PEZZATTI SESMA                   0  8 12,3997
+  262MARLISE PRETTI                          28  8 12,6367
+  272QUETINA ANDREIA BERNS                   28  8 14,1865
+  275ANDREIA POFFO                           11  8 16,8048
+  295CARLOS F. VAZ DOS SILVA                 22  8 16,5186
+  309JOAO MARTINHO SILVA                      3  8 12,5546
+  310ALISSON FRANCO DA MATHES                 5  8 13,8804
+  333MORGANA POVOAS                          28  8 13,5848
+  334IVOIR SERAPIAO OKADA                     5  8 15,8489
+  335NEUDIR DE MULLER                         7  8 12,9838
+  354NORMA GRACIELA ZOCCATELLI                1  8 15,3512
+  357SIMONE CZUIKA MAINARDES                  2  8 16,1617
+  371MARISE BOLDUAN KIEDIS                    9  8 13,5213
+  402GESIELI GESSNER                          7  8 14,1500
+  414SIDNEI PEREIRA                          25  8 15,0834
+  430JANICE SCHMULLER SANTOS                  3  8 15,1370
+  442CESAR GILMAR COELHO                     22  8 16,6986
+  447MARILENE M. PICCOLI                     18  8 15,1164
+  449JANETE MOKWA                             3  8 15,4075
+  453MILENE CRISTINE PEDRI PAULI             14  8 15,6310
+  456OSMAR KOSLOPP                           10  8 13,3684
+  468EDSON VEGINI                            15  8 16,3073
+  483ELIANE COSMO                             2  8 12,6990
+  484ALCIONEI SIMOES                         11  8 13,6407
+  509CLADIS SONIA EHLERT FRANCO               9  8 15,0353
+  515JORGE LUIZ SILVA                         0  8 16,2429
+  517MARILSE SCHULZ                           9  8 16,0566
+  520JANE MARIA SACHT                         2  8 14,5899
+  537ELIZA GEANE SANTOS                      28  8 15,6435
+  561MARIA BERENICE ODWAZNY MACHADO           4  8 14,2836
+  566VANESSA SIQUEIRA                         1  8 16,5072
+  569IRACEMA INES DA SILVA AUERHAHN          16  8 12,3530
+  577MARLETE NEITSCH CARVALHO                22  8 16,5190
+  589ZENAIDE MARISA DE O. SILVA               9  8 13,7686
+  592MARISETE CATARINA GOES R DE TOFFOL      23  8 16,2128
+  594ODAIR SIDINEI ROSARIO                    1  8 14,7843
+  601CRISTIANE WENHOLZ                       15  8 13,5947
+  606LUIS CARLOS RANGHETTI                    3  8 16,7034
+  633KLAUS FENRICH                           21  8 14,6230
+  638IVANDRO KRISCHANSKI                     19  8 12,4463
+  640ROBERTO LIMA                            12  8 12,2365
+  642CATIA M. DE SOUZA BERTOLI                9  8 13,2711
+  656JUCEMARE AP SASSE DOEGER                 5  8 14,0171
+  662INGRIDT STADLER                          2  8 15,8909
+  667ROSSIANE CRISTINA DA OSOVSKI             0  8 13,3255
+  672NARA REGINA KUMMETZ DA GADOTTI           5  8 16,8108
+  677CELI ADRIANA GIRALDI QUOST               4  8 15,6718
+  678SUELI ZILS CORREA DE LEWIN               0  8 13,3316
+  679DAIANE CAMILA JUNKES                     6  8 16,8412
+  688MARCELO CORREIA                         23  8 14,4899
+  697TAGIANE TAJANARA POTER                   7  8 14,7816
+  700CONCEICAO APARECIDA DA VIEIRA            8  8 12,8439
+  712VERA APARECIDA RUSTICK                  18  8 15,8642
+  725NEIVA DE FATIMA FORTES                   6  8 14,5366
+  730SIMONE REGINA W PINHEIRO                28  8 15,8476
+  741ALAN RODRIGO LOURENCO DA LIMAS          17  8 16,5375
+  747ALDENIR BALTAZAR DA MATHIAS              0  8 12,4261
+  760LUIS HENRIQUE DUARTE                    18  8 15,1062
+  763DEBORA LOURENZETTI                       9  8 14,2383
+  775RODRIGO DALPRA                          15  8 16,9101
+  784DEBORA DE FATIMA PONATH                 28  8 12,4741
+  785VILMA REGINA MAIDA STAINZACK             9  8 13,7635
+  786MARCIA SOLANGE K. LANGE                 12  8 13,7750
+  790LUCELENE PENKE                           0  8 15,2870
+  797SILVANA JUNKES                          10  8 14,9225
+  823IRACEMA KATCHAROWSKI                    27  8 15,5122
+  833JEAN CARLO SAKAYA                        7  8 16,9036
+  849CLAUDINEIA RIEGEL FRANCENER             15  8 14,2634
+  857MARIA E. Z. SAVULSKI                     1  8 13,5826
+  861MARCIA IRIANE MARTINS                   12  8 14,8642
+  883LUCIANE WOLF GETNERSKI                  15  8 14,9718
+  885SANDRA R. K. WINTER                      6  8 15,2436
+  888SUZIMARA DOS SANTOS LUCIANO              5  8 16,7937
+  889SILVANA A. CAGNINI SANTHIAGO             4  8 13,1115
+  890ROGERIO DANIEL                          17  8 12,6996
+  895VALDETE GAZZOLA                          3  8 13,6514
+  900SILVANE LEITZKE LEVANDOWSKI              7  8 14,9256
+  901JULIO CEZAR ALVES GORISCH               13  8 14,4093
+  908JANI ROBERTA MACHADO                     5  8 15,8482
+  913TANIA MARIA BOTELHO                     21  8 14,1587
+  914ADILCE PASQUALINA BERTRAM                8  8 15,9896
+  915MARLISE K. ZAPPELLINI                   13  8 16,4188
+  919ALCIONE HAFEMANN DE KREHNKE             17  8 14,0299
+  924ELIANE JANKE GUTKNECHT                   3  8 14,6559
+  927SALETE FRANZENER CASSOL                  9  8 15,5476
+  951RENATE ROSE LINDNER                      0  8 12,0643
+  976JOICE JUSSARA KNOPP SILVA               18  8 12,1647
+    4MARIA LEONIR DZIOBA                      4  9125,5266
+   11ELISABETE K. LESSING                     1  9140,0236
+   37ILIETE APARECIDA MATKEVICZ               4  9110,2791
+   42IRAN DE ROCHINSKI                        6  9118,7270
+  107EVERTON VERISSIMO ANDRES                21  9148,5205
+  113MAICON MATOS MEDEIROS                   15  9124,8623
+  114ROGERIO ERDMANN                         28  9131,1341
+  117ADILSON FLEMING                         28  9131,4461
+  124MARCIANE DE BESEN                       24  9143,1760
+  127SIMONE DAS NEVES ROSA                   18  9118,9596
+  142FERNANDO JOSE CARDOSO                    3  9113,5390
+  146ROSEMERI ALFLEN KOERBES                  1  9102,0813
+  160MARGALI SIEVERS KRUG                    21  9122,5038
+  178ADRIANA PEREIRA                          5  9103,2426
+  184JULIANA FIAMONCINI                      15  9109,0772
+  191LIGIA BRAATZ DA SILVA KOEGLER            4  9143,0849
+  196ELISANGELA MOSER                        17  9135,2275
+  205SANDRA MARISA VENTURA WACKHOLZ          24  9108,4863
+  217ALVINA PUTKA ULLER                       7  9108,3311
+  224EDINA SCHWIRKOWSKI                      17  9112,6488
+  225LUCIANE SCHMITZ ANDRE                    4  9128,0468
+  254CIONARA MORAUER                          4  9124,6125
+  265VIVIAN DARLEIA SCHIPITOSCKI             12  9111,0447
+  280EMERSON VALDIR SILVA                    10  9109,1966
+  282MARIO CESAR DERETTI                      2  9110,1870
+  297JAILTON PAULO KLUK                      15  9131,0573
+  330JACKSON ALVES                            0  9113,4353
+  336RAFAEL RODRIGO NISHIOKA                  6  9116,8758
+  338DALMIR JOSE MACHADO                     26  9114,9215
+  346FATIMA NORIKO VENCESLAU                 20  9113,7533
+  349ROSANGELA DA KISNER                     20  9121,2765
+  351SILVETE BASSANI DA ROSSI                 0  9105,7736
+  363PRISCILA APARECIDA SOUZA                18  9117,5177
+  370DEBORAH ROSA                            24  9116,0839
+  372EDSON DOS SILVA                         25  9139,8983
+  388JOEL JOAO SOUZA                          3  9106,5639
+  397DAIANE RAQUEL FIGUR                      2  9123,0276
+  417HERIBERTO N. DE O. ZAPELLINI            14  9149,1526
+  422SILVANA BARBOSA FROGEL                  10  9102,9900
+  425MARIA LUCIA ARENT NUNES                 10  9135,8858
+  431VERA LUCIA SCHINAIDER                   19  9105,7527
+  439ANESIA M. DE LIMA DOS STIPP              1  9148,3739
+  446JOICE DORN                              22  9139,5303
+  469DILNEI COSTA                            11  9100,8573
+  472CHRISTA SIMONE BESSA                    28  9140,5488
+  475ADIR PEREIRA DOS RUFINO                 22  9108,4704
+  476ANA PAULA SIEDLECKI                     28  9146,3849
+  498MARCIA QUEIROZ                           8  9144,9158
+  501CESAR ROBERTO STREHL                    16  9127,4910
+  512JOSIANE PACKER ZANGHELINI               20  9112,1092
+  516RUTH ZICK                               11  9134,2533
+  522ADRIANO FERREIRA                         9  9123,3886
+  531TANIA BARTEL WENDORFF                    3  9127,2884
+  533CLAUDIA GIACOMOZZI SCHIFLER              2  9137,6900
+  534IOVANCA SCABURI SPEZIA                  17  9113,1344
+  550HEIDEROSE NEUMANN                       17  9106,3120
+  562KATIANA HECK SOUZA                       2  9128,9606
+  570MARISTELA JURK                          12  9140,7201
+  611CLOVIS LUIZ OLIVEIRA                    14  9120,7268
+  613NADIR BARUFFI RAYMUNDO                   3  9138,6828
+  628DIRCEU BARBOSA                           0  9141,8160
+  636JEAN CARLOS VIERGUTZ                    14  9120,8489
+  676EDICLEIA DIAS                            5  9109,4025
+  680GILSON MADRUGA DO GETNERSKI             20  9117,9546
+  686DINEUZA MARIA MARTINI FORMIGARI         10  9128,9932
+  754CLEBER ANTONIO PARIZOTTO                22  9130,4343
+  771MARIZE ALDROVANDI MOREIRA               12  9114,8671
+  776DILMA ROSA                              11  9128,8983
+  795ANAIR ARENDT CATANEO                    16  9126,0544
+  804HELENA MARIA LOFF                       18  9110,4521
+  838MARCIA I. MALLMANN SERPA                 0  9147,3931
+  846MARLI DERETTI                            8  9102,3803
+  862GENECI DO CALMO SCHIOCHET               11  9146,7747
+  909PATRICIA PRETTI SOUZA                   25  9145,3021
+  929MARCOS C. FISCHER                       19  9134,5627
+  963ODETE W. RADDATZ                         4  9118,5697
+  975CHARLES FORMIGARI                       15  9106,9396
+  977AUREA M. RIEGEL                         20  9118,8048
+  986CRISTIANO LOURENCO DA ALFLEN             4  9136,5633
+  989VALMIRA PADILHA                          4  9114,9034
+  998JOSE ABEL GABRIELE                      11  9119,7757
+ 1000ADELAIDE KREUZ DE HANSEN                 0  9126,8255
+   17MARIA AMABILE BRAIER BASEGIO            10 10  6,1255
+   22ROSANE RUTKE POFFO                       2 10  5,9161
+   41GIZELA BLASIUS                           4 10  5,8342
+   48SIMONE ROSA FARIAS                       0 10  6,3281
+   55MAEVE ROSA ANDRADE                       8 10  6,2697
+   57ROSANE DO N MACHADO STEINERT            22 10  6,1184
+   84CRISTIANE APARECIDA BORBA               26 10  5,4704
+   87CHARLES DIONEI HEIDECKE                 18 10  6,3052
+   99MARIA LUIZA VIEIRA                       6 10  6,2798
+  104MARLENI PIECHARSKI                      21 10  5,3325
+  108CLODOALDO SIQUEIRA DAS PEREIRA           6 10  6,0728
+  115VERONICA KREICH MARCO                    7 10  6,9611
+  123KATIANE CARVALHO                        27 10  5,6892
+  136MERCEDES TAVARES DE FERREIRA             1 10  6,4803
+  144MAIRA MOREIRA                           22 10  5,6627
+  150GISSELE FERREIRA LINDNER                20 10  5,2817
+  153CLAUDIA REGINA RUDIGER                   3 10  6,6632
+  157VERONICA ZELFELD RODRIGUES               4 10  5,5588
+  167NEYDE MARIA MARTINS                     17 10  5,1488
+  170INACIO BATISTA                          27 10  6,0089
+  172DAYSE FABIANA CERON                     15 10  6,6338
+  182VANIO HEUPA                              2 10  5,8706
+  193ERICA GNEWUCH                           28 10  6,4317
+  209GISELE RECH SANTOS                      24 10  5,6086
+  211DARCI BONATTI WINTRICH                  16 10  6,4176
+  239CRISTIANE KAMMER                        26 10  6,3297
+  245CLAUDENICE BARBOZA                       2 10  5,2852
+  255SUELI ENGEL ENGEL                        5 10  5,6767
+  276REGINA A. NICOLODI CARDOSO               6 10  6,0009
+  287INES MARIA STRATMANN                     2 10  5,6379
+  342LILIANE LARA                            22 10  6,2708
+  347OLGA DE FATIMA COLACO                   25 10  6,5904
+  356JULVANI HOBBEL                           9 10  5,7065
+  364MARCILENE A. VICENZI                     5 10  6,5901
+  367SUZANA DAS GRACAS PAULO                 26 10  5,8212
+  381LOURDES C. PENA DA ECHEGARAY             1 10  6,8690
+  387JOSE CARLOS RITA                         0 10  5,1755
+  405JOHNES MARCES ROVEDER                    7 10  5,0618
+  415ANGELO RICARDO HAIDUK                    3 10  6,1159
+  416MARCIA MADALENA FERREIRA                22 10  6,2213
+  421NELCI PAWLAK RONCHI                     20 10  6,4881
+  427VIVIANE PEREIRA                          4 10  6,8796
+  437FABIO CRISTIANO ALDROVANDI               5 10  6,6552
+  443OSLUCINY DEJAIR VIEIRA                  13 10  5,3641
+  470LAURA DA SILVA VENTURINI                 7 10  6,1023
+  480CLAUDETE IVONE KLEIN SANT'ANA            2 10  6,1732
+  486DENISE KLUCK PINHEIRO                   25 10  5,7055
+  500ELISAMARA CRISTINA V. KLEIN             20 10  5,6978
+  506SIMONI EBERHART DO HASS                 27 10  5,6558
+  507APARECIDA HELENA G. HARANGOSO           16 10  6,2402
+  511ELIANE FANTINATI FARIAS                 10 10  5,2849
+  526JEFERSON STREIT                          7 10  5,4686
+  528ELAINE CRISTINA DA LIMA                  4 10  5,0240
+  542SILVIA DA SILVA ASSIS                   26 10  5,4790
+  574MARILENE PANINI                          9 10  6,9057
+  580ESTELA MARIS LESCOWICZ                   2 10  6,6766
+  587IVONETE VARGAS ALFLEN                   25 10  6,7029
+  590FERNANDA KARINE ZICKUHR                  2 10  6,0520
+  595DULCE FRANCA                             5 10  6,8905
+  631INACIO MORAES                           23 10  6,4996
+  643STELLA MARIS DALPRA COSMO                2 10  6,7843
+  660INGRIDT BRANDT TONIAL                   11 10  5,1972
+  684LORAINE MARIA GRAAUW REISER             24 10  5,5870
+  698ANGELA MARIA FREITAG BRAATZ             16 10  5,3906
+  718ROSEMERI APARECIDA KROLL                18 10  5,0453
+  722TERESA ANTUNES SILVA                    23 10  6,5120
+  744AIRTON MARTINS                           3 10  6,7760
+  751ROSANGELA DE SILVA                      22 10  6,5762
+  767ANDREIA RISTAU DA COELHO                14 10  5,9379
+  828FRAINER EDSON F. DE HAIDUK              28 10  5,7437
+  831ANGELO CARLOTTO TOMELIN                 20 10  5,4413
+  851RENATA REDMERSKI LENZI                  28 10  5,9521
+  858LENIR FRAISENER BASTOS                   8 10  5,8083
+  898ANGELA R. PEREIRA LANGE                  6 10  5,9337
+  905DEONILSE DA AP DOS S MUEGGE             26 10  6,6507
+  918ROSANGELA DELLING GESSNER                4 10  6,8601
+  926ANGELA YOSHIE ROHR                       9 10  5,6151
+  938LORI SOUZA                               7 10  5,2069
+  964JUSSARA JANTSCH EVARISTO                19 10  5,8455
+  979JUNIOR JOSE STEIN                        1 10  6,8445
+  985FLAVIA GUTHS                            16 10  6,3448
+  995DORACI MATTEDI                          18 10  6,7725
+    4MARIA LEONIR DZIOBA                      4 10  6,0045
+   11ELISABETE K. LESSING                     1 10  5,9144
+   37ILIETE APARECIDA MATKEVICZ               4 10  5,2738
+   42IRAN DE ROCHINSKI                        6 10  6,6542
+  107EVERTON VERISSIMO ANDRES                21 10  5,7449
+  113MAICON MATOS MEDEIROS                   15 10  6,3205
+  114ROGERIO ERDMANN                         28 10  5,8071
+  117ADILSON FLEMING                         28 10  5,9846
+  124MARCIANE DE BESEN                       24 10  5,8844
+  127SIMONE DAS NEVES ROSA                   18 10  6,9747
+  142FERNANDO JOSE CARDOSO                    3 10  6,0366
+  146ROSEMERI ALFLEN KOERBES                  1 10  6,9778
+  160MARGALI SIEVERS KRUG                    21 10  6,2799
+  178ADRIANA PEREIRA                          5 10  5,8483
+  184JULIANA FIAMONCINI                      15 10  6,0153
+  191LIGIA BRAATZ DA SILVA KOEGLER            4 10  6,0899
+  196ELISANGELA MOSER                        17 10  6,8140
+  205SANDRA MARISA VENTURA WACKHOLZ          24 10  5,3358
+  217ALVINA PUTKA ULLER                       7 10  5,6584
+  224EDINA SCHWIRKOWSKI                      17 10  6,7085
+  225LUCIANE SCHMITZ ANDRE                    4 10  5,9843
+  254CIONARA MORAUER                          4 10  6,9274
+  265VIVIAN DARLEIA SCHIPITOSCKI             12 10  6,9650
+  280EMERSON VALDIR SILVA                    10 10  6,6445
+  282MARIO CESAR DERETTI                      2 10  6,4896
+  297JAILTON PAULO KLUK                      15 10  6,6977
+  330JACKSON ALVES                            0 10  6,7215
+  336RAFAEL RODRIGO NISHIOKA                  6 10  6,3237
+  338DALMIR JOSE MACHADO                     26 10  6,5155
+  346FATIMA NORIKO VENCESLAU                 20 10  6,3552
+  349ROSANGELA DA KISNER                     20 10  6,2320
+  351SILVETE BASSANI DA ROSSI                 0 10  6,0380
+  363PRISCILA APARECIDA SOUZA                18 10  5,0986
+  370DEBORAH ROSA                            24 10  6,8557
+  372EDSON DOS SILVA                         25 10  6,7774
+  388JOEL JOAO SOUZA                          3 10  6,0458
+  397DAIANE RAQUEL FIGUR                      2 10  6,0159
+  417HERIBERTO N. DE O. ZAPELLINI            14 10  5,3847
+  422SILVANA BARBOSA FROGEL                  10 10  5,1305
+  425MARIA LUCIA ARENT NUNES                 10 10  6,6256
+  431VERA LUCIA SCHINAIDER                   19 10  5,6706
+  439ANESIA M. DE LIMA DOS STIPP              1 10  6,7975
+  446JOICE DORN                              22 10  5,3799
+  469DILNEI COSTA                            11 10  6,4696
+  472CHRISTA SIMONE BESSA                    28 10  6,0487
+  475ADIR PEREIRA DOS RUFINO                 22 10  6,2713
+  476ANA PAULA SIEDLECKI                     28 10  6,3764
+  498MARCIA QUEIROZ                           8 10  5,5230
+  501CESAR ROBERTO STREHL                    16 10  6,1473
+  512JOSIANE PACKER ZANGHELINI               20 10  6,7461
+  516RUTH ZICK                               11 10  6,2895
+  522ADRIANO FERREIRA                         9 10  6,7528
+  531TANIA BARTEL WENDORFF                    3 10  5,7229
+  533CLAUDIA GIACOMOZZI SCHIFLER              2 10  6,8765
+  534IOVANCA SCABURI SPEZIA                  17 10  5,1646
+  550HEIDEROSE NEUMANN                       17 10  5,8325
+  562KATIANA HECK SOUZA                       2 10  5,6762
+  570MARISTELA JURK                          12 10  5,7454
+  611CLOVIS LUIZ OLIVEIRA                    14 10  5,5437
+  613NADIR BARUFFI RAYMUNDO                   3 10  6,8121
+  628DIRCEU BARBOSA                           0 10  5,3616
+  636JEAN CARLOS VIERGUTZ                    14 10  5,5936
+  676EDICLEIA DIAS                            5 10  6,5004
+  680GILSON MADRUGA DO GETNERSKI             20 10  5,1843
+  686DINEUZA MARIA MARTINI FORMIGARI         10 10  5,3495
+  754CLEBER ANTONIO PARIZOTTO                22 10  6,0725
+  771MARIZE ALDROVANDI MOREIRA               12 10  5,9464
+  776DILMA ROSA                              11 10  6,7701
+  795ANAIR ARENDT CATANEO                    16 10  6,4454
+  804HELENA MARIA LOFF                       18 10  5,5754
+  838MARCIA I. MALLMANN SERPA                 0 10  6,9493
+  846MARLI DERETTI                            8 10  6,9941
+  862GENECI DO CALMO SCHIOCHET               11 10  6,4094
+  909PATRICIA PRETTI SOUZA                   25 10  5,1754
+  929MARCOS C. FISCHER                       19 10  6,4133
+  963ODETE W. RADDATZ                         4 10  5,5380
+  975CHARLES FORMIGARI                       15 10  5,1710
+  977AUREA M. RIEGEL                         20 10  6,6617
+  986CRISTIANO LOURENCO DA ALFLEN             4 10  6,7352
+  989VALMIRA PADILHA                          4 10  5,3029
+  998JOSE ABEL GABRIELE                      11 10  5,2877
+ 1000ADELAIDE KREUZ DE HANSEN                 0 10  5,8586

@@ -1,0 +1,10 @@
+  1NATACAO 100                   -
+  2NATACAO 400                   -
+  3ATLETISMO 100                 -
+  4ATLETISMO 400                 -
+  5ATLETISMO 1000                -
+  6ATLETISMO 4000                -
+  7SALTO COM VARA                +
+  8SALTO TRIPLO                  +
+  9ARREM. DISCO                  +
+ 10SALTO DISTANCIA               +

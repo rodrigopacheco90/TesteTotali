@@ -1,0 +1,29 @@
+ 0TRINIAPOLIS
+ 1MARINGA             
+ 2PINHAIS             
+ 3SARANDI             
+ 4CASCAVEL            
+ 5CURITIBA            
+ 6LONDRINA            
+ 7UMUARAMA            
+ 8APUCARANA           
+ 9ARAPONGAS           
+10ARAUCARIA           
+11PARANAGUA           
+12PARANAVAI           
+13PIRAQUARA           
+14GUARAPUAVA          
+15CAMPO LARGO         
+16PATO BRANCO         
+17CAMPO MOURAO        
+18PONTA GROSSA        
+19FOZ DO IGUACU       
+20TELEMACO BORBA      
+21FRANCISCO BELTRAO   
+22LARANJEIRAS DO SUL  
+23ALMIRANTE TAMANDARE 
+24CAMBE               
+25CASTRO              
+26TOLEDO              
+27COLOMBO             
+28SAO JOSE DOS PINHAIS
